@@ -117,12 +117,20 @@ Tools for making writing and designing more accessible; pick your flavor.
 - [LanguageTool](https://languagetool.org)
 - [Nitpicker](http://nitpickertool.com)
 
-#### Writing
+### Writing
 
 - [Hemingway Editor](http://www.hemingwayapp.com)
 - [Notion](https://www.notion.so)
 - [Typora](https://typora.io)
 - [Workflowy](https://workflowy.com)
+
+### Markdown
+
+- [For focused writing, Markdown is your best friend](https://www.fastcompany.com/40586767/for-focused-writing-markdown-is-your-best-friend)
+- [Markdown: Basics](https://daringfireball.net/projects/markdown/basics) by John Gruber
+- [HackMD](https://hackmd.io)
+  - Get everyone on the same page with Markdown
+- [Markdown Editor](https://jbt.github.io/markdown-editor/)
 
 ### Text Editors
 
@@ -132,11 +140,6 @@ Tools for making writing and designing more accessible; pick your flavor.
 - [VS Code](https://code.visualstudio.com/download) (Microsoft)
 - [WebStorm](https://www.jetbrains.com/idea/buy/#discounts) (🍻 Na zdraví!)
   - [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie) (Pre-installed proofreading plugin)
-
-### Markdown
-
-- [Markdown: Basics](https://daringfireball.net/projects/markdown/basics) by John Gruber
-- [For focused writing, Markdown is your best friend](https://www.fastcompany.com/40586767/for-focused-writing-markdown-is-your-best-friend)
 
 
 ## Resources
@@ -179,7 +182,7 @@ Helpful courses related links.
   - A delightful reference for HTML Symbols, Entities and ASCII Character Codes
 - [Shady Characters](https://shadycharacters.co.uk)
 
-#### Web Design, Development, and Publishing
+#### Web Design and Development
 
 ##### Web-Related
 
@@ -196,6 +199,8 @@ Helpful courses related links.
 - [CSS Reference](https://cssreference.io)
 - [CSS Vocabulary](http://nimbupani.com/css-vocabulary.html) (Explained)
 - [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en) (Visual guide)
+
+#### Digital Publication
 
 ##### EPUB
 
