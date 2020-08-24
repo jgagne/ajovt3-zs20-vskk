@@ -24,7 +24,7 @@
 
 **<cite>Applied English for Graphic and Media Designers</cite>** is a professional development course that focuses on enhancing English skills in reading, writing, speaking, and listening in preparation for design and media related careers.
 
-### Course Topics
+### Topics
 
 Work in progress, but you get the gist.
 
@@ -39,7 +39,7 @@ Work in progress, but you get the gist.
 - Social media writing
   - Shareable content for humans and robots
 - Blog post writing
- - A mix of all of the above
+  - A mix of all of the above
 
 ## Grading
 
