@@ -61,7 +61,9 @@ Everyone starts with a high pass. Come to class, do the work, care about the wor
 
 ### Attendance
 
-Come to class, it’s once a week. But when you can’t (it happens; I may need to miss a class too), then let me know ahead of time or later via email or Slack. **Too long; didn’t read:** Please, keep me in the loop, communicate, and let me know what’s going if you need to be absent.
+**Too long; didn’t read:** Please, keep me in the loop, communicate, and let me know when and if you need to be absent.
+
+Come to class, it’s once a week. But when you can’t (it happens; I may need to miss a class too), then let me know ahead of time or later via email or Slack.
 
 |Absences         |Grade     |Description                                                         |
 |-----------------|----------|--------------------------------------------------------------------|
