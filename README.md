@@ -177,17 +177,27 @@ Helpful courses related links.
   - A delightful reference for HTML Symbols, Entities and ASCII Character Codes
 - [Shady Characters](https://shadycharacters.co.uk)
 
-#### HTML
+#### Web Design, Development, and Publishing
+
+##### Web-Related
+
+- [MDN Web Docs Glossary: Definitions of Web-related terms](https://developer.mozilla.org/en-US/docs/Glossary)
+
+##### HTML
 
 - [HTML Reference](https://htmlreference.io)
 - [HTML Element Index](http://html5doctor.com/#glossary)
 - [HTML Vocabulary](http://apps.workflower.fi/vocabs/html/en) (Visual guide)
 
-#### CSS
+##### CSS
 
 - [CSS Reference](https://cssreference.io)
 - [CSS Vocabulary](http://nimbupani.com/css-vocabulary.html) (Explained)
 - [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en) (Visual guide)
+
+##### EPUB
+
+- [EPUB Structural Semantics Vocabulary](https://idpf.github.io/epub-vocabs/structure/)
 
 ## Schedule
 
