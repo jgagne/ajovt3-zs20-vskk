@@ -235,8 +235,8 @@ Helpful courses related links.
 ### Week 2
 
 > The designer must think first, work later.
-> —
-> [Ladislav Sutnar](https://www.aiga.org/medalist-ladislavsutnar), [Pioneer of Information Design](http://www.eyemagazine.com/feature/article/sutnar), 1897–1976
+>
+> –[Ladislav Sutnar](https://www.aiga.org/medalist-ladislavsutnar), [Pioneer of Information Design](http://www.eyemagazine.com/feature/article/sutnar), 1897–1976
 
 - Roles, relations, and getting real
 
@@ -266,7 +266,7 @@ Helpful courses related links.
 
 ### Week 8
 
-- Blog writing
+- Blog post writing
 
 ### Week 9
 
