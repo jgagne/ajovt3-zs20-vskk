@@ -11,6 +11,8 @@
 - Email: `justin.gagne@montserrat.edu`; `vskk.cz` email to be determined (TBD)
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
 
+## Contents
+
 - [Description](#description)
 - [Grading](#grading)
 - [Books](#books)
