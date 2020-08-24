@@ -73,7 +73,7 @@ Come to class, it’s once a week. But when you can’t (it happens; I may need 
 
 ### Authorship
 
-Students must submit original work in this course. Please refer to the school policy of plagiarism.
+Students must submit original work in this course. Please refer to the school policy on plagiarism.
 
 
 ## Books
