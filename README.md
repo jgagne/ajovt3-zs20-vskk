@@ -144,7 +144,7 @@ Tools for making writing and designing more accessible; pick your flavor.
 
 ## Resources
 
-Helpful courses related links.
+Helpful course related links.
 
 ### Writing
 
