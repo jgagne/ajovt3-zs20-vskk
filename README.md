@@ -88,8 +88,8 @@ Students must submit original work in this course. Please refer to the school po
 
 - [Writing is Designing: Words and the User Experience](https://rosenfeldmedia.com/books/writing-is-designing/) by Michael J. Metts & Andy Welfle, Rosenfeld Media, January 2020, ISBN-10: 1933820667, Digital ISBN-10: 1933820608
   - [Sample Chapter: Writing Is Designing](https://www.uxmatters.com/mt/archives/2019/12/sample-chapter-writing-is-designing.php)
-- [Writing for Designers](https://abookapart.com/products/writing-for-designers)
-  - [Sample Chapter: Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/) by Scott Kubie, A Book Apart, 2018, ISBN-13: 9781937557799
+- [Writing for Designers](https://abookapart.com/products/writing-for-designers) by Scott Kubie, A Book Apart, 2018, ISBN-13: 9781937557799
+  - [Sample Chapter: Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/)
 - [Writing for the Design Mind](https://www.bloomsbury.com/us/writing-for-the-design-mind-9781350034976/) by Natalia Ilyin, Bloomsbury Visual Arts, 2019, ISBN-13: 9781350034976
 - [AP Stylebook Online](https://store.stylebooks.com/apstylebookonline.html)
   - Print edition (spiral-bound): [AP Stylebook](https://store.stylebooks.com/2020-ap-stylebook-print-edition.html), 55th Edition, Associated Press, 2020, ISBN-13: 9780917360695
