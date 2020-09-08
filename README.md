@@ -80,9 +80,17 @@ Students must submit original work in this course. Please refer to the school po
 
 *Optional*, but recommended. (We’ll discuss books.)
 
-### Language
+### Workbook
+
+Helpful communication and career skills reference; in particular, Units 1–4 and Vocabulary sections.
 
 - [English for Designers](https://www.martinus.cz/?uItem=102255) by Danica Brečková, Epos, 2005, ISBN-13: 9788080576530
+
+  - Unit 1: The Designer’s Profession
+  - Unit 2: Drawing and Visualizing
+  - Unit 3: Becoming a Professional Designer
+  - Unit 4: Products and Their Presentation
+  - English/Slovak, Slovak/English Vocabulary
 
 ### Writing
 
@@ -91,8 +99,16 @@ Students must submit original work in this course. Please refer to the school po
 - [Writing for Designers](https://abookapart.com/products/writing-for-designers) by Scott Kubie, A Book Apart, 2018, ISBN-13: 9781937557799
   - [Sample Chapter: Writing for Designers](https://alistapart.com/article/writing-for-designers-excerpt/)
 - [Writing for the Design Mind](https://www.bloomsbury.com/us/writing-for-the-design-mind-9781350034976/) by Natalia Ilyin, Bloomsbury Visual Arts, 2019, ISBN-13: 9781350034976
-- [AP Stylebook Online](https://store.stylebooks.com/apstylebookonline.html)
+
+### Style, Usage, and Grammar
+
+
+- [The Elements of Style](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm) by William Strunk
+- [Chicago Manual of Style Online](https://www.chicagomanualofstyle.org) (online, paid; free 30-day trial subscription)
+- [The Associated Press Stylebook Online](https://store.stylebooks.com/apstylebookonline.html)
   - Print edition (spiral-bound): [AP Stylebook](https://store.stylebooks.com/2020-ap-stylebook-print-edition.html), 55th Edition, Associated Press, 2020, ISBN-13: 9780917360695
+
+The following [chart](https://www.thepunctuationguide.com/style.html) shows some of the major differences in punctuation style between The Associated Press Stylebook (2018 edition) and The Chicago Manual of Style (17th edition).
 
 ### Speaking
 
