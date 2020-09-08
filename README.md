@@ -3,7 +3,7 @@
 # Applied English (3) for Graphic and Media Designers
 
 - Winter 2020
-- Tuesday, 9:45-16:30; Room to be determined (TBD)
+- Tuesday, 9:45-16:30; Učebna 104
 - Class Workspace: [Slack](https://slack.com) — Where Work Happens™
   - Workspaces by group, to be announced (TBA)
 - Office Hours: After class, ~ 17:00–18:00 or by appointment (via Slack)
