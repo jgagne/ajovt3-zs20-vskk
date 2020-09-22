@@ -9,7 +9,7 @@
 - Class Workspace: [Slack](https://slack.com) — Where Work Happens™
   - Workspaces by group; to be determined (TBD)
 - Office Hours: After class; ~ 17:00–18:00 or by appointment (via Slack)
-- Instructor: Justin Gagne
+- Lecturer: Justin Gagne
 - Email: `gagnej@vskk.cz`
 - Work: Boston, MA based; remote via Prague
   - Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com).
