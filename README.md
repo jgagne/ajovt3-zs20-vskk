@@ -47,7 +47,7 @@
 - Academic Content
   - Criticism and feedback; thesis abstract and outline
 - Blog Posts
-  - A mix of all of forms of writing
+  - A mix of all forms of writing
 
 ## Grading
 
