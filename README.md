@@ -3,7 +3,7 @@
 # Applied English (3) for Graphic and Media Designers
 
 - Winter 2020
-- Tuesday, 9:45–16:30; Učebna 104
+- Tuesday, 9:45–16:30; Room 104
   - Group A: 9:45–11:15, 11:30–13:00
   - Group B: 13:15–14:45, 15:00–16:30
 - Class Workspace: [Slack](https://slack.com) — Where Work Happens™
