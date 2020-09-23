@@ -41,7 +41,7 @@
 - Technical Content
   - Documentation and tutorials
 - Accessibility
-  - A mix of technical writing with the added markup, syntax, and structure
+  - A mix of technical writing with the added complexity of markup, syntax, and structure
 - Social Media
   - Shareable content, accessible to humans and robots
 - Academic Content
