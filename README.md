@@ -1,6 +1,7 @@
 `AJOVT3`
 
-# Applied English for Graphic and Media Designers (English for Designers)
+# Applied English for Graphic and Media Designers
+## (English for Designers)
 
 - Winter 2020
 - Tuesday, 9:45–16:30; <s>Room 104</s> online via Zoom
