@@ -139,9 +139,9 @@ Tools for making writing and designing more accessible; pick your flavor.
 ### Proofreading
 
 - [After the Deadline](https://www.polishmywriting.com)
+- [Grammarly](https://app.grammarly.com)
 - [Hemingway Editor](http://www.hemingwayapp.com)
 - [LanguageTool](https://languagetool.org)
-- [Nitpicker](http://nitpickertool.com)
 
 ### Writing
 
