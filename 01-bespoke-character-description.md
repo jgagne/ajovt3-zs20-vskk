@@ -71,10 +71,10 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 ## Vocabulary
 
 - **Alt text**
-  - Short for *alternative* text; Alternative text provides a descriptive textual alternative to non-text content such as images and charts in web pages and digital publishing formats.
+  - Short for *alternative* text. Alternative text provides a descriptive textual alternative to non-text content such as images and charts in web pages and digital publishing formats.
 - **Accessible**
-  - Easily understood; Accessible content that’s friendly and usable by as many people as possible.
+  - Easily understood; approachable. Accessible content that’s friendly and usable by as many people as possible.
 - **Bespoke**
-  - Handmade, made by hand; Bespoke typefaces and typographic designs.
+  - Handmade; made by hand. Bespoke typefaces and typographic designs.
 - **Semantic**
-  - Meaningful, relating to the meaning of a word, phrase, sentence, or text. Semantic markup is HTML that introduces meaning to web page content rather than just visual presentation.
+  - Meaningful; relating to the meaning of a word, phrase, sentence, or text. Semantic markup is HTML that introduces meaning to web page content rather than just visual presentation.
