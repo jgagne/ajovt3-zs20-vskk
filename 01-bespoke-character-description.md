@@ -33,10 +33,6 @@ Capture and save final artwork in a digital format using these guidlines:
 - Name: Use a meaningful filename and in lowercase.
   - For example: `capital-letter-o.jpg`
 
-> People read 25% slower onscreen, and they skim rather than read. Web text should be short, scannable, and structured…
->
-> —[Jakob Nielsen](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/), <cite>[Be Succinct! (Writing for the Web)](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/)</cite>
-
 #### Text
 
 - Write your description in sentence case, it’s a short sentence, and ends with period.
@@ -74,6 +70,8 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 
 - [Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)
 - [Typography Deconstructed: Type Glossary](https://typedecon.com/blogs/type-glossary)
+- [Creating a
+Bespoke Typeface](https://raggededge.com/opinion/bespoke-typefaces-a-guide/)
 
 ## Tools
 
@@ -91,6 +89,6 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 - **Accessible**
   - Easily understood; approachable. Accessible content that’s friendly and usable by as many people as possible.
 - **Bespoke**
-  - Handmade; made by hand. Bespoke typefaces and typographic designs.
+  - Handmade; made by hand. Bespoke type can make a first impression count, and is often one of the first things people notice about a brand.
 - **Semantic**
   - Meaningful; relating to the meaning of a word, phrase, sentence, or text. Semantic markup is HTML that introduces meaning to web page content rather than just visual presentation.
