@@ -6,7 +6,7 @@
 
 ![A large painted black serif capital letter O with a white oval center on an off-white background.](./img/01-klint-atom-series.jpg)
 
-<cite>[Hilma af Klint](https://www.hilmaafklint.se/en/), Atom Series, 1919</cite> via [coa.edu](https://www.coa.edu/live/profiles/1107-catherine-clinger/templates/details/faculty.php)
+<cite>[Hilma af Klint](https://www.hilmaafklint.se/en/), Atom Series, 1919</cite> (via [coa.edu](https://www.coa.edu/live/profiles/1107-catherine-clinger/templates/details/faculty.php))
 
 **Alt text description:** `A large painted black serif capital letter O with a white oval center on an off-white background.`
 
@@ -72,5 +72,9 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 
 - **Alt text**
   - Short for *alternative* text; Alternative text provides a descriptive textual alternative to non-text content such as images and charts in web pages and digital publishing formats.
+- **Accessible**
+  - Easily understood; Accessible content that’s friendly and usable by as many people as possible.
 - **Bespoke**
-  - Handmade; made by hand.
+  - Handmade, made by hand; Bespoke typefaces and typographic designs.
+- **Semantic**
+  - Meaningful, relating to the meaning of a word, phrase, sentence, or text. Semantic markup is HTML that introduces meaning to web page content rather than just visual presentation.
