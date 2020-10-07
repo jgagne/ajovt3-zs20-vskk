@@ -1,8 +1,8 @@
 # Bespoke Character & Description
 
->90 percent of design is typography. And the other 90 percent is whitespace.
+> 90 percent of design is typography. And the other 90 percent is whitespace.
 >
->—[Jeffrey Zeldman](https://twitter.com/zeldman/status/679727437198929921)
+> —[Jeffrey Zeldman](https://twitter.com/zeldman/status/679727437198929921)
 
 ![A large painted black serif capital letter O with a white oval center on an off-white background.](./img/01-klint-atom-series.jpg)
 
@@ -12,7 +12,7 @@
 
 > Alternative text should be succinct, yet descriptive of the content and function of an image. Lengthy alternative text (more than around 100 characters) often indicates that extraneous content or content that is not available to sighted users is being presented.
 >
->[Perceivable](https://webaim.org/standards/wcag/checklist#perceivable) guidline via WebAIM’s WCAG 2 Checklist
+> [Perceivable](https://webaim.org/standards/wcag/checklist#perceivable) guidline via WebAIM’s WCAG 2 Checklist
 
 ## Brief
 
@@ -33,6 +33,20 @@ Capture and save final artwork in a digital format using these guidlines:
 - Name: Use a meaningful filename and in lowercase.
   - For example: `capital-letter-o.jpg`
 
+> People read 25% slower onscreen, and they skim rather than read. Web text should be short, scannable, and structured…
+>
+> —[Jakob Nielsen](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/), <cite>[Be Succinct! (Writing for the Web)](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/)</cite>
+
+#### Text
+
+- Write your description in sentence case, it’s a short sentence, and ends with period.
+- Keep your description short; aim for 100 characters or less, unless there is a lot to describe (120 is a good limit).
+
+**Note:**
+
+- Capitalize abbreviations and acronyms, but remove ampersands.
+  - For example: The acronym (and brand) “C&A” becomes “C and A”.
+
 ## Examples
 
 ![](./img/01-play-instinct-letterforms.jpg)
@@ -43,12 +57,14 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 
 ### Alt Text
 
+- [How to Write Effective Alt Text](https://www.3playmedia.com/2019/12/27/alt-text-marketing/)
+- [How to Write Great Alt Text — And Why It Matters](https://aceseditors.org/news/2020/how-to-write-great-alt-text-and-why-it-matters)
+- [alt attributes like paragraphs](https://daverupert.com/2020/09/alt-attributes-like-paragraphs/)
 - [Alt text is part of your site’s content](https://www.centercentre.com/2016/06/30/2016-06-30-alt-text-is-part-of-your-sites-content/)
 - [When writing alt text, ask yourself this question](https://www.centercentre.com/2016/06/09/2016-06-09-when-writing-alt-text-ask-yourself-this-question/)
 - [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
-- [alt attributes like paragraphs](https://daverupert.com/2020/09/alt-attributes-like-paragraphs/)
-- [Rethinking Accessible Drop Caps: Pattern](https://justingagne.design/words/rethinking-accessible-drop-caps/#pattern)
 - [Include descriptive titles, captions, filenames, and text for images](https://support.google.com/webmasters/answer/114016?hl=en#descriptive-titles-captions-filenames)
+- [Rethinking Accessible Drop Caps: Pattern](https://justingagne.design/words/rethinking-accessible-drop-caps/#pattern)
 
 ### Design
 
