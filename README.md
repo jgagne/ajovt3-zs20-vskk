@@ -257,7 +257,7 @@ Helpful course related links.
 ### Week 1
 
 - Introductions, icebreaker, and course details
-  - Assignment; to be announced (TBA)
+  - Assignment: [Bespoke Character & Description](01-bespoke-character-description.md)
 
 ### Week 2
 
