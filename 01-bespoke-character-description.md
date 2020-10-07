@@ -12,7 +12,7 @@
 
 > Alternative text should be succinct, yet descriptive of the content and function of an image. Lengthy alternative text (more than around 100 characters) often indicates that extraneous content or content that is not available to sighted users is being presented.
 >
-> [Perceivable](https://webaim.org/standards/wcag/checklist#perceivable) guidline via WebAIM’s WCAG 2 Checklist
+> [Perceivable](https://webaim.org/standards/wcag/checklist#perceivable) guideline via WebAIM’s WCAG 2 Checklist
 
 ## Brief
 
@@ -26,7 +26,7 @@
 
 #### Artwork
 
-Capture and save final artwork in a digital format using these guidlines:
+Capture and save your final artwork in a digital format using these guidelines:
 
 - Size: Use a square with a width and height of `1080 px` × `1080 px` (think Instagram artwork size).
 - Format: If it’s a photo, save as a JPG; and if it’s *not* a photo, save as a PNG.
@@ -35,7 +35,7 @@ Capture and save final artwork in a digital format using these guidlines:
 
 #### Text
 
-- Write your description in sentence case, it’s a short sentence, and ends with period.
+- Write your description in sentence case; start with a capital letter and end with a period.
 - Keep your description short; aim for 100 characters or less, unless there is a lot to describe (120 is a good limit).
 
 **Note:**
