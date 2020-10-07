@@ -18,9 +18,20 @@
 
 1. Design a bespoke character working from the latin alphabet, choose a single letterform from A through Z using any style (lowercase or uppercase, sans-serif or serif, cursive or fantasy, etc.) and technique (analog or digital).
 2. Write a concise, accessible, and semantic alternative text description of the final letterform design in under 100 characters.
-  - For example: A large painted black serif capital letter O with a white oval center on an off-white background.
+    - For example: A large painted black serif capital letter O with a white oval center on an off-white background.
 3. Also consider text for a caption: Letter, designer, and a list of materials or process.
-  - For example: *O*, Lauren Cook. Assorted moss for floral arrangements, hot glue, and wire.
+    - For example: *O*, Lauren Cook. Assorted moss for floral arrangements, hot glue, and wire.
+
+### Details
+
+#### Artwork
+
+Capture and save final artwork in a digital format using these guidlines:
+
+- Size: Use a square with a width and height of `1080 px` × `1080 px` (think Instagram artwork size).
+- Format: If it’s a photo, save as a JPG; and if it’s *not* a photo, save as a PNG.
+- Name: Use a meaningful filename and in lowercase.
+  - For example: `capital-letter-o.jpg`
 
 ## Examples
 
@@ -63,4 +74,3 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
   - Short for *alternative* text; Alternative text provides a descriptive textual alternative to non-text content such as images and charts in web pages and digital publishing formats.
 - **Bespoke**
   - Handmade; made by hand.
-
