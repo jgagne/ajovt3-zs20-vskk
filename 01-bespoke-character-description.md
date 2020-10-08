@@ -4,11 +4,11 @@
 >
 > —[Jeffrey Zeldman](https://twitter.com/zeldman/status/679727437198929921)
 
-![A large painted black serif capital letter O with a white oval center on an off-white background.](./img/01-klint-atom-series.jpg)
+![A large painted black serif capital letter O with a white oval center, on an off-white background.](./img/01-klint-atom-series.jpg)
 
 <cite>[Hilma af Klint](https://www.hilmaafklint.se/en/), Atom Series, 1919</cite> (via [coa.edu](https://www.coa.edu/live/profiles/1107-catherine-clinger/templates/details/faculty.php))
 
-**Alt text description:** `A large painted black serif capital letter O with a white oval center on an off-white background.`
+**Alt text description:** `A large painted black serif capital letter O with a white oval center, on an off-white background.`
 
 > Alternative text should be succinct, yet descriptive of the content and function of an image. Lengthy alternative text (more than around 100 characters) often indicates that extraneous content or content that is not available to sighted users is being presented.
 >
@@ -18,7 +18,7 @@
 
 1. Design a bespoke character; working from the Latin alphabet, choose a single letterform from A through Z using any style (lowercase or uppercase, sans-serif or serif, cursive or fantasy, etc.) and technique (analog or digital).
 2. Write a concise, accessible, and semantic alternative text description of the final letterform design in under 100 characters.
-    - For example: A large painted black serif capital letter O with a white oval center on an off-white background.
+    - For example: A large painted black serif capital letter O with a white oval center, on an off-white background.
 3. Also consider text for a caption: Letter, designer, and a list of materials or process.
     - For example: *O*, Lauren Cook. Assorted moss for floral arrangements, hot glue, and wire.
 
