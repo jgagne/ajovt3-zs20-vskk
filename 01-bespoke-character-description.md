@@ -16,7 +16,7 @@
 
 ## Brief
 
-1. Design a bespoke character; working from the Latin alphabet, choose a single letterform from A through Z using any style (lowercase or uppercase, sans-serif or serif, cursive or fantasy, etc.) and technique (analog or digital).
+1. Design a bespoke character; working from the modern English alphabet, choose a single letterform from A to Z (one of 26 letters) using any style (lowercase or uppercase, sans-serif or serif, cursive or fantasy, etc.) and technique (analog or digital).
 2. Write a concise, accessible, and semantic alternative text description of the final letterform design in under 100 characters.
     - For example: A large painted black serif capital letter O with a white oval center, on an off-white background.
 3. Also consider text for a caption: Letter, designer, and a list of materials or process.
