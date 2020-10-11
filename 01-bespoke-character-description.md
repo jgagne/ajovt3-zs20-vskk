@@ -74,6 +74,7 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 
 - [Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)
 - [Typography Deconstructed: Type Glossary](https://typedecon.com/blogs/type-glossary)
+- [Totally Type](http://totallytype.com)
 - [Creating a
 Bespoke Typeface](https://raggededge.com/opinion/bespoke-typefaces-a-guide/)
 
