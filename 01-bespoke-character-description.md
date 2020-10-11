@@ -30,7 +30,7 @@ Capture and save your final artwork in a digital format using these guidelines:
 
 - Size: Use a square with a width and height of `1080 px` × `1080 px` (think Instagram artwork size).
 - Format: If it’s a photo, save as a JPG; and if it’s *not* a photo, save as a PNG.
-- Name: Use a meaningful filename and in lowercase.
+- Name: Use a meaningful filename, in lowercase, and without spaces; use a hyphen or underscore instead.
   - For example: `capital-letter-o.jpg`
 
 #### Text
@@ -42,6 +42,10 @@ Capture and save your final artwork in a digital format using these guidelines:
 
 - Capitalize abbreviations and acronyms, but remove ampersands.
   - For example: The acronym (and brand) “C&A” becomes “C and A”.
+
+### Handoff
+
+We’ll discuss the work and handoff details in class. In the interim, share via email or Slack for feedback before class.
 
 ## Examples
 
