@@ -45,7 +45,7 @@ Capture and save your final artwork in a digital format using these guidelines:
 
 ### Handoff
 
-We’ll discuss the work and handoff details in class. In the interim, share via email or Slack for feedback before class.
+We’ll discuss the work and handoff details in class. In the interim, share via email or Slack for *optional* feedback before class.
 
 ## Examples
 
