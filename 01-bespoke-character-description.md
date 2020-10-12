@@ -17,7 +17,7 @@
 ## Brief
 
 1. Design a bespoke character; working from the modern English alphabet, choose a single letterform from A to Z (one of 26 letters) using any style (lowercase or uppercase, sans-serif or serif, cursive or fantasy, etc.) and technique (analog or digital).
-2. Write a concise, accessible, and semantic alternative text description of the final letterform design in under 100 characters.
+2. Write a concise, accessible, and semantic alternative text description of your final letterform artwork as a single sentence in under 100 characters.
     - For example: A large painted black serif capital letter O with a white oval center, on an off-white background.
 3. Also consider text for a caption: Letter, designer, and a list of materials or process.
     - For example: *O*, Lauren Cook. Assorted moss for floral arrangements, hot glue, and wire.
@@ -26,16 +26,20 @@
 
 #### Artwork
 
-Capture and save your final artwork in a digital format using these guidelines:
+Capture and save final artwork in a digital format using these guidelines:
 
 - Size: Use a square with a width and height of `1080 px` × `1080 px` (think Instagram artwork size).
 - Format: If it’s a photo, save as a JPG; and if it’s *not* a photo, save as a PNG.
 - Name: Use a meaningful filename, in all-lowercase, and separate words with hyphens. See [Naming guidelines](https://developers.google.com/style/filenames) and <cite>[Dashes vs. underscores](https://www.mattcutts.com/blog/dashes-vs-underscores/)</cite> for details.
   - For example: `capital-letter-o.jpg`
 
+**Optional:**
+
+- Collect and save sketches to document your process (as a case study).
+
 #### Text
 
-- Write your description in sentence case; start with a capital letter and end with a period.
+- Write your description as a single sentence in sentence case; start with a capital letter and end with a period.
 - Keep your description short; aim for 100 characters or less, unless there is a lot to describe (120 is a good limit).
 
 **Note:**
