@@ -51,6 +51,10 @@ Capture and save final artwork in a digital format using these guidelines:
 
 We’ll discuss the work and handoff details in class. In the interim, share via email or Slack for *optional* feedback before class.
 
+**Note:**
+
+- Keep artwork and text as separate pieces of content.
+
 ## Examples
 
 ![](./img/01-play-instinct-letterforms.jpg)
