@@ -1,4 +1,4 @@
-# Bespoke Character & Description
+# Character & Description
 
 > 90 percent of design is typography. And the other 90 percent is whitespace.
 >
@@ -51,6 +51,64 @@ Capture and save final artwork in a digital format using these guidelines:
 
 We’ll discuss the work and handoff details in class. In the interim, share via email or Slack for *optional* feedback before class.
 
+#### GitHub
+
+- Create a project folder (repo) with a markdown and image file.
+  - For example:
+    - `character-description`
+      - `character-description.md`
+      - `uppercase-o-jgagne.png`
+
+#### Markdown
+
+- `character-description.md`
+
+```
+## Character & Desscription
+
+![Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](uppercase-and-jgagne.png)
+
+*O*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
+
+- - -
+
+Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+
+```
+
+**Optional:**
+
+```
+## Character & Desscription
+
+![Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](uppercase-and-jgagne.png)
+
+*O*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
+
+- - -
+
+Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+
+### Process
+
+#### Sketches
+
+![Short text description.](uppercase-and-sketch-1-jgagne.png)
+
+Caption for sketch 1.
+
+#### Keywords
+
+- ampersand
+- pixel
+- preview
+```
+
+#### Artwork
+
+- Use the filename convention of case, letter, first name initial followed by last name (surname).
+  - For examples: `uppercase-o-jgagne.png`
+
 **Note:**
 
 - Keep artwork and text as separate pieces of content.
@@ -77,6 +135,10 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 ### Design
 
 - [What is a Design Language… really?](https://medium.com/thinking-design/what-is-a-design-language-really-cd1ef87be793)
+
+### Markdown
+
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### Typography
 

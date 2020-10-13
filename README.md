@@ -257,7 +257,7 @@ Helpful course related links.
 ### Week 1
 
 - Introductions, icebreaker, and course details
-  - Assignment: [Bespoke Character & Description](01-bespoke-character-description.md)
+  - Assignment: [Character & Description](01-character-description.md)
 
 ### Week 2
 
