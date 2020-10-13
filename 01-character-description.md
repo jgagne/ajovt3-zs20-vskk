@@ -81,13 +81,13 @@ Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator�
 ```
 ## Character & Desscription
 
-![Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](uppercase-and-jgagne.png)
+![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](uppercase-and-jgagne.png)
 
 *O*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
 
 - - -
 
-Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
 
 ### Process
 
