@@ -57,33 +57,33 @@ We’ll discuss the work and handoff details in class. In the interim, share via
   - For example:
     - `character-description`
       - `character-description.md`
-      - `uppercase-o-jgagne.png`
+      - `uppercase-and-jgagne.png`
 
 #### Markdown
 
 - `character-description.md`
 
 ```
-## Character & Desscription
+## Character & Description
 
-![Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](uppercase-and-jgagne.png)
+![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](uppercase-and-jgagne.png)
 
-*O*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
+*&*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
 
 - - -
 
-Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
 
 ```
 
 **Optional:**
 
 ```
-## Character & Desscription
+## Character & Description
 
 ![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](uppercase-and-jgagne.png)
 
-*O*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
+*&*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
 
 - - -
 
@@ -107,7 +107,7 @@ Caption for sketch 1.
 #### Artwork
 
 - Use the filename convention of case, letter, first name initial followed by last name (surname).
-  - For examples: `uppercase-o-jgagne.png`
+  - For examples: `uppercase-and-jgagne.png`
 
 **Note:**
 
