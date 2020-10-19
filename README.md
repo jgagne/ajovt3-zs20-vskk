@@ -261,8 +261,10 @@ Helpful course related links.
 
 ### Week 2
 
-- Vocabulary development, lean writing, criticism and feedback, and storytelling
-  - Assignment; to be announced (TBA)
+- Discussion of [Character & Description](01-character-description.md) artwork, text, and vocabulary.
+  - Assignment:
+    - [Handoff](01-character-description.md#handoff) of <cite>Character & Description</cite> work and URL
+    - Select a few of your best and favorite portfolio pieces, three (3) to x (any number), and be prepared to present and talk about your work with the class for [Week 3](#week-3), October 20.
 
 ### Week 3
 
