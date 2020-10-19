@@ -51,6 +51,8 @@ Capture and save final artwork in a digital format using these guidelines:
 
 We’ll discuss the work and handoff details in class. In the interim, share via email or Slack for *optional* feedback before class.
 
+**Update:** Share your repo URL in the `01-character-description` channel of your Slack workspace.
+
 #### GitHub
 
 - Create a project folder (repo) with a markdown and image file.
@@ -77,6 +79,8 @@ A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator�
 ```
 
 **Optional:**
+
+For those with additional artwork (sketches) and text (information), please collate and show that work using basic markdown to create subheading, lists, etc., as shown below.
 
 ```
 ## Character & Description
@@ -139,6 +143,8 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 ### Markdown
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Create a repo - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo)
+  - **Note:** When [making a commit](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo#commit-your-first-change), *commit directly to the `main` branch* (your current repo) instead of making a pull request as described in step 7.
 
 ### Typography
 
