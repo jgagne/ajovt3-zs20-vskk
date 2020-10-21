@@ -33,14 +33,18 @@ Problem, action, and result:
 1. What problem did the project solve?
 2. What actions did you take to do this project?
 3. How successful were you in solving the problem?
+    - What were the results of the project?
 
 ### RAD
 
 Lean content is reliable, authentic, and direct language (this builds the reader’s trust and confidence).
 
-1. Reliable: It sets and meets the reader's expectations; it's consistent throughout each piece of content
-2. Authentic: If feels like a real conversation is happening; the language is natural and clear
-3. Direct: It gives you exactly what you need to make a decision
+1. Reliable
+    - It sets and meets the reader's expectations; it's consistent throughout each piece of content.
+2. Authentic
+    - If feels like a real conversation is happening; the language is natural and clear.
+3. Direct
+    - It gives you exactly what you need to make a decision.
 
 ## Handoff
 
