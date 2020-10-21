@@ -269,7 +269,7 @@ Helpful course related links.
 ### Week 3
 
 - Preliminary presentations
-  - Assignment; to be determined (TBD)
+  - Assignment: [Intentional Aboutness](02-intentional-aboutness.md)
 
 ### Week 4
 
