@@ -99,7 +99,7 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
 ### Writing
 
 - [Writing for Web & Mobile](https://thegymnasium.com/courses/GYM/105/0/about), Lesson 1: Seeing Content As Conversation; Chapter 3: Lean Content (Registration is required to view the lesson. Registration is free and you won’t get spammed.)
-- [Writing User Friendly Content][https://www.uxbooth.com/articles/writing-user-friendly-content/]
+- [Writing User Friendly Content](https://www.uxbooth.com/articles/writing-user-friendly-content/)
 
 ## Punctuation
 
