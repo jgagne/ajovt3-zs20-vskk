@@ -22,9 +22,9 @@
 3. Also consider text for a caption: Letter, designer, and a list of materials or process.
     - For example: *O*, Lauren Cook. Assorted moss for floral arrangements, hot glue, and wire.
 
-### Details
+## Details
 
-#### Artwork
+### Artwork
 
 Capture and save final artwork in a digital format using these guidelines:
 
@@ -38,7 +38,7 @@ Capture and save final artwork in a digital format using these guidelines:
 
 - Collect and save sketches to document your process (as a case study).
 
-#### Text
+### Text
 
 - Write your description as a single sentence in sentence case; start with a capital letter and end with a period.
 - Keep your description short; aim for 100 characters or less, unless there is a lot to describe (120 is a good limit).
@@ -48,21 +48,21 @@ Capture and save final artwork in a digital format using these guidelines:
 - Capitalize abbreviations and acronyms, but remove ampersands.
   - For example: The acronym (and brand) “C&A” becomes “C and A”.
 
-### Handoff
+## Handoff
 
 We’ll discuss the work and handoff details in class. In the interim, share via email or Slack for *optional* feedback before class.
 
 **Update:** Share your repo URL in the `01-character-description` channel of your Slack workspace.
 
-#### GitHub
+### GitHub
 
 - Create a project folder (repo) with a markdown and image file.
   - For example:
-    - `character-description`
+    - `01-character-description`
       - `character-description.md`
       - `uppercase-and-jgagne.png`
 
-#### Markdown
+### Markdown
 
 - `character-description.md`
 
@@ -75,7 +75,7 @@ We’ll discuss the work and handoff details in class. In the interim, share via
 
 - - -
 
-A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+**Alt text:** A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
 
 ```
 
@@ -92,7 +92,7 @@ For those with additional artwork (sketches) and text (information), please coll
 
 - - -
 
-A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+**Alt text:** A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
 
 ### Process
 

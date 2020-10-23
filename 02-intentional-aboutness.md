@@ -14,7 +14,7 @@
 3. Choose a project to develop as a case study for your portfolio and write about the process using the PAR and RAD content methods. Aim for around 500 *words* (not characters).
     - See [Case Studies](#case-studies) for examples.
 
-## Warmup
+## Warm-up
 
 Consider generating a keyword list to start the process of writing:
 
@@ -40,7 +40,7 @@ Problem, action, and result:
 Lean content is reliable, authentic, and direct language (this builds the reader’s trust and confidence).
 
 1. Reliable
-    - It sets and meets the reader's expectations; it's consistent throughout each piece of content.
+    - It sets and meets the reader’s expectations; it’s consistent throughout each piece of content.
 2. Authentic
     - If feels like a real conversation is happening; the language is natural and clear.
 3. Direct
@@ -82,7 +82,7 @@ Content goes here…
 Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
 ```
 
-## Readings
+## Examples
 
 ### About
 
@@ -100,8 +100,11 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
   - Choose any project case study; they're all excellent.
 - [Simon Pan](http://simonpan.com) (Same here.)
 
+## Readings
+
 ### Writing
 
+- [How to Write Project Case Studies for Your Portfolio](https://medium.com/@vanschneider/how-to-write-project-case-studies-for-your-portfolio-2e8d397a60b4)
 - [Writing for Web & Mobile](https://thegymnasium.com/courses/GYM/105/0/about), Lesson 1: Seeing Content As Conversation; Chapter 3: Lean Content (Registration is required to view the lesson. Registration is free and you won’t get spammed.)
 - [Writing User Friendly Content](https://www.uxbooth.com/articles/writing-user-friendly-content/)
 
