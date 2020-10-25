@@ -54,7 +54,7 @@ We’ll discuss the work and handoff details in class. In the interim, share via
 
 **Update:** Share your repo URL in the `01-character-description` channel of your Slack workspace.
 
-### GitHub
+### GitHub Config
 
 - Create a project folder (repo) with a markdown and image file.
   - For example:
@@ -62,7 +62,7 @@ We’ll discuss the work and handoff details in class. In the interim, share via
       - `character-description.md`
       - `uppercase-and-jgagne.png`
 
-### Markdown
+### Markdown Files
 
 - `character-description.md`
 
@@ -155,11 +155,13 @@ Analog student work from <cite>[Experimental A–Z, 0–9](https://educators.aig
 - [Creating a
 Bespoke Typeface](https://raggededge.com/opinion/bespoke-typefaces-a-guide/)
 
-## Tools
+## Resources
+
+### Tools
 
 - [Hemingway Editor](http://www.hemingwayapp.com)
 
-## Tutorials
+### Tutorials
 
 - [Writing Effective and Accessible Alt Text](https://thegymnasium.com/take5/writing-effective-and-accessible-alt-text)
 - [Improving Image Accessibility With Alt Text](https://thegymnasium.com/take5/improving-image-accessibility-with-alt-text)

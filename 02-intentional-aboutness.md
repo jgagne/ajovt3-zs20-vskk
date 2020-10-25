@@ -55,7 +55,7 @@ Share your repo URL in the `02-intentional-aboutness` project channel of your Sl
 
 **Optional:** Share via email or Slack for feedback before posting to the project channel.
 
-### GitHub
+### GitHub Config
 
 - Create a project folder (repo) with two markdown files, plus image files.
   - For example:
@@ -63,7 +63,7 @@ Share your repo URL in the `02-intentional-aboutness` project channel of your Sl
       - `about.md`
       - `case-study.md`
 
-### Markdown
+### Markdown Files
 
 - `about.md`
 
@@ -109,22 +109,28 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
 
 - [How to Write Project Case Studies for Your Portfolio](https://medium.com/@vanschneider/how-to-write-project-case-studies-for-your-portfolio-2e8d397a60b4)
 - [Writing for Web & Mobile](https://thegymnasium.com/courses/GYM/105/0/about)
-  - Lesson 1: Seeing Content As Conversation; Chapter 3: Lean Content
+  - Lesson 1: Seeing Content as Conversation; Chapter 3: Lean Content
     - **Note:** Registration is required to view the lesson, but it’s free and you won’t get spammed.
 - [Writing User Friendly Content](https://www.uxbooth.com/articles/writing-user-friendly-content/)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
   - As a suggestion for writing more meaningful message, it’s worth a read.
 
-## Punctuation
+## Resources
+
+### Markdown
+
+- [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+### Punctuation
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com)
 
-## Tools
+### Tools
 
 - [Grammarly](http://www.grammarly.com)
 - [Hemingway Editor](http://www.hemingwayapp.com)
 
-## Tutorials
+### Tutorials
 
 - [Storytelling for Designers](https://thegymnasium.com/take5/storytelling-for-designers)
 - [Crafting Your Story](https://thegymnasium.com/take5/crafting-your-story)
