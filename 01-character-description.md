@@ -163,6 +163,7 @@ Bespoke Typeface](https://raggededge.com/opinion/bespoke-typefaces-a-guide/)
 
 - [Writing Effective and Accessible Alt Text](https://thegymnasium.com/take5/writing-effective-and-accessible-alt-text)
 - [Improving Image Accessibility With Alt Text](https://thegymnasium.com/take5/improving-image-accessibility-with-alt-text)
+- [Working & Collaborating in GitHub](https://www.dropbox.com/s/k0mck7pksdgyme8/tutorial-vskk-github-101.mp4?dl=0) (36 min)
 
 ## Vocabulary
 
