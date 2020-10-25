@@ -135,7 +135,7 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
 
 - [Storytelling for Designers](https://thegymnasium.com/take5/storytelling-for-designers)
 - [Crafting Your Story](https://thegymnasium.com/take5/crafting-your-story)
-- [Working & Collaborating in GitHub](https://www.dropbox.com/s/k0mck7pksdgyme8/tutorial-vskk-github-101.mp4?dl=0) (36 min)
+- [Working & Collaborating in GitHub](https://www.dropbox.com/s/k0mck7pksdgyme8/tutorial-vskk-github-101.mp4?dl=0) (≈ 36 min)
 
 ## Vocabulary
 
