@@ -270,6 +270,7 @@ Helpful course related links.
 
 - Preliminary presentations
   - Assignment: [Intentional Aboutness](02-intentional-aboutness.md)
+  - Tutorial: [Working & Collaborating in GitHub](https://www.dropbox.com/s/k0mck7pksdgyme8/tutorial-vskk-github-101.mp4?dl=0) (36 min)
 
 ### Week 4
 
