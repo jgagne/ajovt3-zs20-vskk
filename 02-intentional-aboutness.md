@@ -108,6 +108,7 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
 ### Writing
 
 - [How to Write Project Case Studies for Your Portfolio](https://medium.com/@vanschneider/how-to-write-project-case-studies-for-your-portfolio-2e8d397a60b4)
+- [How To Write A Case Study For Your Design Portfolio](https://www.format.com/magazine/resources/design/how-to-write-design-case-study)
 - [Writing for Web & Mobile](https://thegymnasium.com/courses/GYM/105/0/about)
   - Lesson 1: Seeing Content as Conversation; Chapter 3: Lean Content
     - **Note:** Registration is required to view the lesson, but it’s free and you won’t get spammed.
