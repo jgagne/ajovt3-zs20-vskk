@@ -97,11 +97,11 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
 
 ### Case Studies
 
-- [Kleo—An award-winning, beginner-inclusive app for art museums](https://amandapinsker.com/project/museum)
 - [Strong Back | Open Heart](https://colly.com/work/strong-back-open-heart)
-- [Rachel Schmitz](https://www.rachel-schmitz.com)
-  - Choose any project case study; they're all excellent.
-- [Simon Pan](http://simonpan.com) (Same here.)
+- [Thames & Hudson](https://www.pentagram.com/work/thames-and-hudson-2/story)
+- [Evolving the Google Identity](https://design.google/library/evolving-google-identity/)
+- [AIGA Case Studies](https://www.aiga.org/case-studies)
+- [RGD Case Studies](https://www.rgd.ca/community/case-studies.php)
 
 ## Readings
 
