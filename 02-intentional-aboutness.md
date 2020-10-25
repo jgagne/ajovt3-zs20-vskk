@@ -4,6 +4,9 @@
 >
 > –[Ladislav Sutnar](https://www.aiga.org/medalist-ladislavsutnar), [Pioneer of Information Design](http://www.eyemagazine.com/feature/article/sutnar), 1897–1976
 
+> Get rid of half the words on each page, then get rid of half of what’s left.
+>
+> —[Steve Krug](http://sensible.com)
 
 ## Brief
 
@@ -121,6 +124,7 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
 
 - [Storytelling for Designers](https://thegymnasium.com/take5/storytelling-for-designers)
 - [Crafting Your Story](https://thegymnasium.com/take5/crafting-your-story)
+- [Working & Collaborating in GitHub](https://www.dropbox.com/s/k0mck7pksdgyme8/tutorial-vskk-github-101.mp4?dl=0) (36 min)
 
 ## Vocabulary
 
