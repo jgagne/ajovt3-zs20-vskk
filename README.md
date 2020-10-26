@@ -257,14 +257,15 @@ Helpful course related links.
 ### Week 1
 
 - Introductions, icebreaker, and course details
-  - Assignment: [Character & Description](01-character-description.md)
+- Assignment: [Character & Description](01-character-description.md)
 
 ### Week 2
 
-- Discussion of [Character & Description](01-character-description.md) artwork, text, and vocabulary.
-  - Assignment:
-    - [Handoff](01-character-description.md#handoff) of <cite>Character & Description</cite> work and URL
-    - Select a few of your best and favorite portfolio pieces, three (3) to x (any number), and be prepared to present and talk about your work with the class for [Week 3](#week-3), October 20.
+- Discussion:
+  - [Character & Description](01-character-description.md) artwork, text, and vocabulary.
+- Assignment:
+  - [Handoff](01-character-description.md#handoff) of <cite>Character & Description</cite> work and URL
+  - Select a few of your best and favorite portfolio pieces, three (3) to x (any number), and be prepared to present and talk about your work with the class for [Week 3](#week-3), October 20.
 
 ### Week 3
 
@@ -275,7 +276,10 @@ Helpful course related links.
 ### Week 4
 
 - Design writing; storytelling and case studies
-  - Assignment; to be determined (TBD)
+  - Discussion:
+    - [[Intentional Aboutness](02-intentional-aboutness.md) about text, case study write-up, content methods, and vocabulary.
+  - Assignment:
+    - [Handoff](02-intentional-aboutness.md#handoff) of <cite>Intentional Aboutness</cite> work and URL
 
 ### Week 5
 
