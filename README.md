@@ -277,7 +277,7 @@ Helpful course related links.
 
 - Design writing; storytelling and case studies
   - Discussion:
-    - [[Intentional Aboutness](02-intentional-aboutness.md) about text, case study write-up, content methods, and vocabulary.
+    - [Intentional Aboutness](02-intentional-aboutness.md) about text, case study write-up, content methods, and vocabulary.
   - Assignment:
     - [Handoff](02-intentional-aboutness.md#handoff) of <cite>Intentional Aboutness</cite> work and URL
 
