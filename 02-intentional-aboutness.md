@@ -14,7 +14,7 @@
     - For example: Experience designer. I like to rethink things through experimentation, compassion, and a sense of humor. (104 characters)
 2. Write a separate short paragraph about who you are, beyond being a designer with a sense of humor; a personal bio, with an emphasis on keywords and under 300 characters in length.
     - For example: I grew up in the ‘burbs of New York, make a lot of self deprecating jokes, and I’m notorious for being average at a thousand hobbies—most recently <s>guitar</s> piano, <s>mini</s> Monday crossword puzzles, <s>embroidery</s> knitting, and hand lettering.
-3. Choose a project to develop as a case study for your portfolio and write about the process using the PAR and RAD content methods. Aim for around 500 *words* (not characters).
+3. Choose a project to develop as a case study for your portfolio and write about the process using the PAR and RAD content methods. Aim for around 300–500 *words* (not characters).
     - See [Case Studies](#case-studies) for examples.
 
 ## Warm-up
