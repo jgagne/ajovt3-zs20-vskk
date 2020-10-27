@@ -234,7 +234,7 @@ Helpful course related links.
 
 ## Schedule
 
-12 weeks; 11 meetings total; each Tuesday, 9:45–16:30 (9:45-11:15, 11:30–13:00; 13:15–14:45, 15:00–16:30).
+12 weeks; 11 meetings total; each Tuesday at 10:00 (9:45) and 13:30 (13:15).
 
 - [Week 1](#week-1), October 6
 - [Week 2](#week-2), October 13
@@ -257,38 +257,44 @@ Helpful course related links.
 ### Week 1
 
 - Introductions, icebreaker, and course details
-- Assignment: [Character & Description](01-character-description.md)
+  - Assignment:
+    - [Character & Description](01-character-description.md)
 
 ### Week 2
 
 - Discussion:
   - [Character & Description](01-character-description.md) artwork, text, and vocabulary.
 - Assignment:
-  - [Handoff](01-character-description.md#handoff) of <cite>Character & Description</cite> work and URL
+  - [Handoff](01-character-description.md#handoff) of <cite>Character & Description</cite> work and URL.
   - Select a few of your best and favorite portfolio pieces, three (3) to x (any number), and be prepared to present and talk about your work with the class for [Week 3](#week-3), October 20.
 
 ### Week 3
 
 - Preliminary presentations
-  - Assignment: [Intentional Aboutness](02-intentional-aboutness.md)
-  - Tutorial: [Working & Collaborating in GitHub](https://www.dropbox.com/s/k0mck7pksdgyme8/tutorial-vskk-github-101.mp4?dl=0) (≈ 36 min)
+  - Assignment:
+    - [Intentional Aboutness](02-intentional-aboutness.md)
+  - Tutorial:
+    - [Working & Collaborating in GitHub](https://www.dropbox.com/s/k0mck7pksdgyme8/tutorial-vskk-github-101.mp4?dl=0) (≈ 36 min)
 
 ### Week 4
 
 - Design writing; storytelling and case studies
   - Discussion:
     - [Intentional Aboutness](02-intentional-aboutness.md) about text, case study write-up, content methods, and vocabulary.
+    - Proximate and holistic content feedback.
+      - [Better Writing Feedback](http://www.betterwritingfeedback.com/#item4)
   - Assignment:
-    - [Handoff](02-intentional-aboutness.md#handoff) of <cite>Intentional Aboutness</cite> work and URL
+    - [Handoff](02-intentional-aboutness.md#handoff) of <cite>Intentional Aboutness</cite> work and URL.
+    - Collate content for a draft CV (curriculum vitae, résumé); brief to be determined (TBD)
 
 ### Week 5
 
-- Design writing; personal brand and user experience
+- Business writing; CV (curriculum vitae) and motivational content
   - Assignment; to be determined (TBD)
 
 ### Week 6
 
-- Business writing; CV (curriculum vitae) and motivational content
+- Design writing; personal brand and user experience
   - Assignment; to be determined (TBD)
 
 ### Week 7
