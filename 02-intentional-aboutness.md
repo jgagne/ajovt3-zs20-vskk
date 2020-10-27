@@ -118,6 +118,10 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
 
 ## Resources
 
+### Feedback
+
+- [Better Writing Feedback](http://www.betterwritingfeedback.com)
+
 ### Markdown
 
 - [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
