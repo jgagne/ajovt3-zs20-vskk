@@ -57,11 +57,14 @@ Share your repo URL in the `02-intentional-aboutness` project channel of your Sl
 
 ### GitHub Config
 
-- Create a project folder (repo) with two markdown files, plus image files.
+- Create a project folder (repo) with two Markdown files, plus an `img` folder with images.
   - For example:
     - `02-intentional-aboutness`
       - `about.md`
       - `case-study.md`
+      - `img`
+        - `filename.png`
+        - `…`
 
 ### Markdown Files
 
@@ -82,7 +85,31 @@ A separate short paragraph about who you are, beyond being a designer with a sen
 
 Content goes here…
 
-Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
+![Alt text description.](img/filename.png)
+
+Note: Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
+```
+
+### Image Details
+
+See [Images](#images) for resources on choosing the right image format and file optimization.
+
+- Size: Export images to the width of `1280 px`.
+- Format: If it’s a photo, save as a JPG; and if it’s *not* a photo, save as a PNG.
+- Name: Use a meaningful filename, in all-lowercase, and separate words with hyphens. See [Naming guidelines](https://developers.google.com/style/filenames) and <cite>[Dashes vs. underscores](https://www.mattcutts.com/blog/dashes-vs-underscores/)</cite> for details.
+  - Use the filename convention of case, letter, first name initial followed by last name (surname) combined with the best practice of all-lowercase and separate words with hyphens.
+    - For example: `project-detail-1.png`
+
+**Note:**
+
+For those with animation, without sound, use an animated GIF as the file format and still use Markdown’s image syntax (`![Alt text description.](img/animation.gif)`).
+
+And those with a video, with sound, you'll want add the HTML `video` element to your Markdown file.
+
+For example:
+
+```html
+<video controls src="video/filename.mp4" poster="img/video-poster.png" width="1280">
 ```
 
 ## Examples
@@ -121,6 +148,11 @@ Note: Use markdown for headings, paragraphs, lists, quotes, images, etc., to add
 ### Feedback
 
 - [Better Writing Feedback](http://www.betterwritingfeedback.com)
+
+### Images
+
+- [Choose the right image format](https://web.dev/choose-the-right-image-format/)
+- [Optimizing Images for Web: A Practical Guide](https://www.abetterlemonadestand.com/optimizing-images-for-web/)
 
 ### Markdown
 
