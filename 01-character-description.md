@@ -32,7 +32,7 @@ Capture and save final artwork in a digital format using these guidelines:
 - Format: If it’s a photo, save as a JPG; and if it’s *not* a photo, save as a PNG; or if it’s animation or video, save as an animated GIF but consider including an alternative still frame as well.
 - Name: Use a meaningful filename, in all-lowercase, and separate words with hyphens. See [Naming guidelines](https://developers.google.com/style/filenames) and <cite>[Dashes vs. underscores](https://www.mattcutts.com/blog/dashes-vs-underscores/)</cite> for details.
   - Use the filename convention of case, letter, first name initial followed by last name (surname) combined with the best practice of all-lowercase and separate words with hyphens.
-    - For examples: `uppercase-and-jgagne.png`
+    - For example: `uppercase-and-jgagne.png`
 
 **Optional:**
 
@@ -56,7 +56,7 @@ We’ll discuss the work and handoff details in class. In the interim, share via
 
 ### GitHub Config
 
-- Create a project folder (repo) with a markdown and image file.
+- Create a project folder (repo) with a Markdown and image file.
   - For example:
     - `01-character-description`
       - `character-description.md`
@@ -81,7 +81,7 @@ We’ll discuss the work and handoff details in class. In the interim, share via
 
 **Optional:**
 
-For those with additional artwork (sketches) and text (information), please collate and show that work using basic markdown to create subheading, lists, etc., as shown below.
+For those with additional artwork (sketches) and text (information), please collate and show that work using basic Markdown to create subheading, lists, etc., as shown below.
 
 ```
 ## Character & Description
