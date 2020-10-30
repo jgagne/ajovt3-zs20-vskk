@@ -94,7 +94,7 @@ Note: Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add
 
 See [Images](#images) for resources on choosing the right image format and file optimization.
 
-- Size: Export images to the width of `1280 px`.
+- Size: Export images to a max width of `1280 px` (considered full-width-esque) and any width below depending on your content.
 - Format: If it’s a photo, save as a JPG; and if it’s *not* a photo, save as a PNG.
 - Name: Use a meaningful filename, in all-lowercase, and separate words with hyphens. See [Naming guidelines](https://developers.google.com/style/filenames) and <cite>[Dashes vs. underscores](https://www.mattcutts.com/blog/dashes-vs-underscores/)</cite> for details.
   - Use the filename convention of case, letter, first name initial followed by last name (surname) combined with the best practice of all-lowercase and separate words with hyphens.
