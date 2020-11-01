@@ -109,7 +109,7 @@ Caption for sketch 1.
 - preview
 ```
 
-#### Artwork
+#### Artwork Naming
 
 - Use the filename convention of case, letter, first name initial followed by last name (surname).
   - For examples: `uppercase-and-jgagne.png`
