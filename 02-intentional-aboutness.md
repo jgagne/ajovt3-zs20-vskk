@@ -109,7 +109,7 @@ And those with a video, with sound, you'll want add the HTML `video` element to 
 For example:
 
 ```html
-<video controls src="video/filename.mp4" poster="img/video-poster.png" width="1280"></video>
+<video controls src="video/filename.mp4" poster="img/video-poster.png" width="100%"></video>
 ```
 
 ## Examples
