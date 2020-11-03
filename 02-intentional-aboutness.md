@@ -109,7 +109,22 @@ And those with a video, with sound, you'll want add the HTML `video` element to 
 For example:
 
 ```html
-<video controls src="video/filename.mp4" poster="img/video-poster.png" width="100%"></video>
+<video controls src="video/filename.mp4" poster="img/video-poster.png" width="100%">
+
+[Alt text description.](https://username.github.io/path/to/page)
+
+</video>
+```
+
+Working [demo](https://github.com/jgagne/english-for-designers/blob/main/02-intentional-aboutness/case-study.md):
+
+```
+<video controls src="video/bollywood-spot.mp4" width="100%">
+
+[Bollywood Spot video trailer.](https://jgagne.github.io/english-for-designers/02-intentional-aboutness/case-study)
+
+</video>
+
 ```
 
 ## Examples
