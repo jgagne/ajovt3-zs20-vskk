@@ -181,6 +181,9 @@ Working [demo](https://github.com/jgagne/english-for-designers/blob/main/02-inte
 
 - [Grammarly](http://www.grammarly.com)
 - [Hemingway Editor](http://www.hemingwayapp.com)
+- [ImageOptim](https://imageoptim.com/mac)
+- [IMG Online](https://www.imgonline.com.ua/eng/remove-jpeg-artifacts.php)
+- [Squoosh](https://squoosh.app)
 
 ### Tutorials
 
