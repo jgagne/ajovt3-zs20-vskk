@@ -64,7 +64,8 @@ Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add struc
 ## Readings
 
 - [résumés](https://practicaltypography.com/resumes.html)
-- [The newest Signal: Jason Zimdars, designer](https://signalvnoise.com/posts/1726-the-newest-signal-jason-zimdars-designer)
-- [Forget the resume, kill on the cover letter](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter)
+- [Do you have a markdown resume?](https://dev.to/jasterix/do-you-have-a-markdown-resume-5ao5)
 - [Write First: The Craft of Content-first Design](https://medium.com/google-design/write-first-the-craft-of-content-first-design-d9460d567947)
 - [Content-First Design](https://alistapart.com/blog/post/content-first-design/)
+- [The newest Signal: Jason Zimdars, designer](https://signalvnoise.com/posts/1726-the-newest-signal-jason-zimdars-designer)
+- [Forget the resume, kill on the cover letter](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter)
