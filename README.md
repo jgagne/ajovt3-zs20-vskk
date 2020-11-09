@@ -290,11 +290,14 @@ Helpful course related links.
 ### Week 5
 
 - Business writing; CV (curriculum vitae) and motivational content
-  - Assignment; to be determined (TBD)
+  - Assignment:
+    - [Curriculum Vitae](03-curriculum-vitae.md)
 
 ### Week 6
 
-- Design writing; personal brand and user experience
+- Design writing; voice and tone
+  - Discussion:
+    - [Curriculum Vitae](03-curriculum-vitae.md) content and design.
   - Assignment; to be determined (TBD)
 
 ### Week 7
