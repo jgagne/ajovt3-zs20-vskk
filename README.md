@@ -295,14 +295,16 @@ Helpful course related links.
 
 ### Week 6
 
-- Design writing; voice and tone
+- Design writing; voice and tone; writing style guides
   - Discussion:
     - [Curriculum Vitae](03-curriculum-vitae.md) content and design.
-  - Assignment; to be determined (TBD)
+  - Assignment:
+    - Voice & Tone; to be announced (TBA)
 
 ### Week 7
 
 - **No class**, Struggle for Freedom and Democracy; International Students’ Day
+  - **Optional:** Office Hours on Tuesday, Nov. 17 *and* Friday, Nov. 20 at 13–16:00 via Zoom.
 
 ### Week 8
 
