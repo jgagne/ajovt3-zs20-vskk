@@ -63,13 +63,31 @@ Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add struc
 
 ## Readings
 
+### CV/Résumés
+
 - [résumés](https://practicaltypography.com/resumes.html)
 - [How to design your own resume](https://uxdesign.cc/how-to-design-your-resumes-3b86ff7d9f76)
 - [Why Is a Resume Important?](https://www.indeed.com/career-advice/resumes-cover-letters/why-is-a-resume-important)
+- [Résumé Tips](https://thegymnasium.com/jobs#resume-tips)
+
+### Content First
+
 - [Write First: The Craft of Content-first Design](https://medium.com/google-design/write-first-the-craft-of-content-first-design-d9460d567947)
 - [Content-First Design](https://alistapart.com/blog/post/content-first-design/)
-- [The newest Signal: Jason Zimdars, designer](https://signalvnoise.com/posts/1726-the-newest-signal-jason-zimdars-designer)
+
+### Cover Letters
+
 - [Forget the resume, kill on the cover letter](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter)
+- [Cover Letter Template with Tips and
+Examples](https://www.indeed.com/career-advice/resumes-cover-letters/cover-letter-template)
+
+### Interviewing
+
+- [The newest Signal: Jason Zimdars, designer](https://signalvnoise.com/posts/1726-the-newest-signal-jason-zimdars-designer)
+- [Interviewing Tips](https://thegymnasium.com/jobs#interviewing-tips)
+
+### Soft Skills
+
 - [5 soft skills every graphic designer needs for a successful career](https://dribbble.com/stories/2020/08/25/graphic-designer-soft-skills)
 
 ## Resources
