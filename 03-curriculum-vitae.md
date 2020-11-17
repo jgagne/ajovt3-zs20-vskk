@@ -1,6 +1,14 @@
-`Work-in-Progress`
-
 # Curriculum Vitae
+
+- [Brief](#brief)
+- [Handoff](#handoff)
+- [Wrap-Up](#wrap-up)
+- [Examples](#examples)
+- [Readings](#readings)
+- [Resources](#resources)
+- [Vocabulary](#vocabulary)
+
+## Brief
 
 > As a law student, I went on a few job interviews. At one, the interviewer’s first comment was “It’s so unusual that I see a résumé without any typos.”
 >
@@ -10,35 +18,10 @@
 >
 >—[Jeffrey Zeldman](https://twitter.com/zeldman/status/804159148?lang=en)
 
-## Brief
-
 Write and design a curriculum vitae, résumé, in Markdown for content first, and as a downloadable PDF for design second.
 
 1. Use Markdown to focus on content first only, while providing a link to a PDF version.
 2. Use a PDF to focus on the look and feel with typography, color, and layout — design second.
-
-## Wrap-Up
-
-Present your work as a public website. Think of `github.com` as the behind-the-scenes version of your content (folders and files), and `github.io` as the public, home page, version of your content with a table of contents (navigation), links to pages (content), etc.).
-
-1. [Enable GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source) on your course repo
-2. Update your repo’s About section with a description and website URL; add the link generated after GitHub Pages is enabled.
- - For example: [`https://jgagne.github.io/english-for-designers/`](https://jgagne.github.io/english-for-designers/)
-
-<details>
-<summary>About section screenshot</summary>
-
-![Screenshot of GitHub Pages About description and website content.](./img/03-github-about-section.png)
-
-</details>
-
-3. Create an `index.md` as a table of contents (or home page) for your public website `https://username.github.io/english-for-designers` that links to your various content.
-- For example: [`https://github.com/jgagne/english-for-designers/blob/main/index.md`](https://github.com/jgagne/english-for-designers/blob/main/index.md)
-
-**Note:** When linking to your content from `index.md`, omit the Markdown file extension (<del>`.md`</del>)
-
-4. Update your `README.md` to describe the contents of your repo and link to your website.
- - For example: [`https://github.com/jgagne/english-for-designers/blob/main/README.md`](https://github.com/jgagne/english-for-designers/blob/main/README.md)
 
 ## Handoff
 
@@ -74,8 +57,30 @@ Also as a reminder, use of a first name initial followed by last name (surname) 
 Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
 
 ```
+## Wrap-Up
 
-## CV/Résumés Examples
+Present your work as a public website. Think of `github.com` as the behind-the-scenes version of your content (folders and files), and `github.io` as the public, home page, version of your content with a table of contents (navigation), links to pages (content), etc.).
+
+1. [Enable GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source) on your course repo
+2. Update your repo’s About section with a description and website URL; add the link generated after GitHub Pages is enabled.
+ - For example: [`https://jgagne.github.io/english-for-designers/`](https://jgagne.github.io/english-for-designers/)
+
+<details>
+<summary>About section screenshot</summary>
+
+![Screenshot of GitHub Pages About description and website content.](./img/03-github-about-section.png)
+
+</details>
+
+3. Create an `index.md` as a table of contents (or home page) for your public website `https://username.github.io/english-for-designers` that links to your various content.
+- For example: [`https://github.com/jgagne/english-for-designers/blob/main/index.md`](https://github.com/jgagne/english-for-designers/blob/main/index.md)
+
+**Note:** When linking to your content from `index.md`, omit the Markdown file extension (<del>`.md`</del>)
+
+4. Update your `README.md` to describe the contents of your repo and link to your website.
+ - For example: [`https://github.com/jgagne/english-for-designers/blob/main/README.md`](https://github.com/jgagne/english-for-designers/blob/main/README.md)
+
+## Examples
 
 - [Amanda Pinsker](https://amandapinsker.com)
   - [PDF version](https://amandapinsker.com/pinsker-resume-2020.pdf)
