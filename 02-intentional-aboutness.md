@@ -163,11 +163,6 @@ Working [demo](https://github.com/jgagne/english-for-designers/blob/main/02-inte
 
 - [Better Writing Feedback](http://www.betterwritingfeedback.com)
 
-### Images
-
-- [Choose the right image format](https://web.dev/choose-the-right-image-format/)
-- [Optimizing Images for Web: A Practical Guide](https://www.abetterlemonadestand.com/optimizing-images-for-web/)
-
 ### Markdown
 
 - [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
@@ -176,19 +171,27 @@ Working [demo](https://github.com/jgagne/english-for-designers/blob/main/02-inte
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com)
 
-### Tools
+### Writing Tools
 
 - [Grammarly](http://www.grammarly.com)
 - [Hemingway Editor](http://www.hemingwayapp.com)
-- [ImageOptim](https://imageoptim.com/mac)
-- [IMG Online](https://www.imgonline.com.ua/eng/remove-jpeg-artifacts.php)
-- [Squoosh](https://squoosh.app)
 
 ### Tutorials
 
 - [Storytelling for Designers](https://thegymnasium.com/take5/storytelling-for-designers)
 - [Crafting Your Story](https://thegymnasium.com/take5/crafting-your-story)
 - [Working & Collaborating in GitHub](https://english-for-designers-vskk.wistia.com/medias/sugdm6vb8z) (≈ 36 min)
+
+### Images
+
+- [Choose the right image format](https://web.dev/choose-the-right-image-format/)
+- [Optimizing Images for Web: A Practical Guide](https://www.abetterlemonadestand.com/optimizing-images-for-web/)
+
+### Image Optimization Tools
+
+- [ImageOptim](https://imageoptim.com/mac)
+- [Squoosh](https://squoosh.app)
+- [IMG Online](https://www.imgonline.com.ua/eng/remove-jpeg-artifacts.php)
 
 ## Vocabulary
 
