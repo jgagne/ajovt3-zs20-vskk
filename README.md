@@ -305,6 +305,8 @@ Helpful course related links.
 
 - **No class**, Struggle for Freedom and Democracy; International Students’ Day
   - **Optional:** Office Hours on Tuesday, Nov. 17 *and* Friday, Nov. 20 at 13–16:00 via Zoom.
+  - Assignment:
+    - [Wrap-Up](03-curriculum-vitae.md#wrap-up) task for [Curriculum Vitae](03-curriculum-vitae.md)
 
 ### Week 8
 

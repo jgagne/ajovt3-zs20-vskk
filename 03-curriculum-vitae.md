@@ -17,6 +17,29 @@ Write and design a curriculum vitae, résumé, in Markdown for content first, an
 1. Use Markdown to focus on content first only, while providing a link to a PDF version.
 2. Use a PDF to focus on the look and feel with typography, color, and layout — design second.
 
+## Wrap-Up
+
+Present your work as a public website. Think of `github.com` as the behind-the-scenes version of your content (folders and files), and `github.io` as the public, home page, version of your content with a table of contents (navigation), links to pages (content), etc.).
+
+1. [Enable GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source) on your course repo
+2. Update your repo’s About section with a description and website URL; add the link generated after GitHub Pages is enabled.
+ - For example: [`https://jgagne.github.io/english-for-designers/`](https://jgagne.github.io/english-for-designers/)
+
+<details>
+<summary>About section screenshot</summary>
+
+![Screenshot of GitHub Pages About description and website content.](./img/03-github-about-section.png)
+
+</details>
+
+3. Create an `index.md` as a table of contents (or home page) for your public website `https://username.github.io/english-for-designers` that links to your various content.
+- For example: [`https://github.com/jgagne/english-for-designers/blob/main/index.md`](https://github.com/jgagne/english-for-designers/blob/main/index.md)
+
+**Note:** When linking to your content from `index.md`, omit the Markdown file extension (<del>`.md`</del>)
+
+4. Update your `README.md` to describe the contents of your repo and link to your website.
+ - For example: [`https://github.com/jgagne/english-for-designers/blob/main/README.md`](https://github.com/jgagne/english-for-designers/blob/main/README.md)
+
 ## Handoff
 
 Share your repo URL in the `03-curriculum-vitae` project channel of your Slack workspace.
@@ -112,3 +135,5 @@ Examples](https://www.indeed.com/career-advice/resumes-cover-letters/cover-lette
   - Do not mistake the em dash (—) for the slightly narrower en dash (–) or the even narrower hyphen (-). The em dash is perhaps the most versatile punctuation mark. Depending on the context, the em dash can take the place of commas, parentheses, or colons⁠ — in each case to slightly different effect.
 - **Oxford comma (serial comma)**
   - The final comma in a list of items is known as an Oxford comma or serial comma. Some writers omit the Oxford comma, but doing so can cause confusion. Empathy, listening, and critical thinking are soft skills that software won’t ever replace — oh, and good writing.
+- **Home page (homepage)**
+ - The first and main page or screen (home screen, homescreen, or start screen) of a digital experience within a website, app, or device. The home page of the first website can be viewed at [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
