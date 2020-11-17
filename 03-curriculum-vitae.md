@@ -25,7 +25,7 @@ Share your repo URL in the `03-curriculum-vitae` project channel of your Slack w
 
 ### GitHub Config
 
-- Create a project folder (repo) with a Markdown file and a PDF file, with an *optional* `img` folder for a headshot image and/or a `pdf` folder for the PDF, if you want to be overly organized.
+- Create a project folder (repo) with a Markdown file and a PDF file, with an *optional* `img` folder for an *optional* headshot image and/or a `pdf` folder for the PDF, if you want to be overly organized.
   - For example:
     - `03-curriculum-vitae`
       - `cv-2020-jgagne.md`
@@ -46,7 +46,7 @@ Also as a reminder, use of a first name initial followed by last name (surname) 
 
 # …
 
-![Headshot photograph of Justin Gagne.](img/cv-2020-headshot-jgagne.png)
+**Optional:** ![Headshot photograph of Justin Gagne.](img/cv-2020-headshot-jgagne.png)
 
 Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
 
@@ -58,6 +58,7 @@ Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add struc
   - [PDF version](https://amandapinsker.com/pinsker-resume-2020.pdf)
 - [Bethany Heck](https://heckhouse.com/about/)
   - [PDF version](https://www.dropbox.com/s/r765mszd44pdgbq/BethanyHeckresume.pdf)
+- [Erik Herrström](https://erikherrstrom.com/about.php)
 - [Jason Zimbars](http://jasonzimdars.com/resume.html)
 - [Nick Sherman](https://nicksherman.com)
 
