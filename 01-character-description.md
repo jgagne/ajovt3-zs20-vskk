@@ -1,5 +1,15 @@
 # Character & Description
 
+- [Brief](#brief)
+- [Details](#details)
+- [Handoff](#handoff)
+- [Examples](#examples)
+- [Readings](#readings)
+- [Resources](#resources)
+- [Vocabulary](#vocabulary)
+
+## Brief
+
 > 90 percent of design is typography. And the other 90 percent is whitespace.
 >
 > —[Jeffrey Zeldman](https://twitter.com/zeldman/status/679727437198929921)
@@ -13,8 +23,6 @@
 > Alternative text should be succinct, yet descriptive of the content and function of an image. Lengthy alternative text (more than around 100 characters) often indicates that extraneous content or content that is not available to sighted users is being presented.
 >
 > [Perceivable](https://webaim.org/standards/wcag/checklist#perceivable) guideline via WebAIM’s WCAG 2 Checklist
-
-## Brief
 
 1. Design a bespoke character; working from the modern English alphabet, choose a single letterform from A to Z (one of 26 letters) using any style (lowercase or uppercase, sans-serif or serif, cursive or fantasy, etc.) and technique (analog or digital).
 2. Write a concise, accessible, and semantic alternative text description of your final letterform artwork as a single sentence in under 100 characters.
@@ -157,7 +165,7 @@ Bespoke Typeface](https://raggededge.com/opinion/bespoke-typefaces-a-guide/)
 
 ## Resources
 
-### Tools
+### Writing Tools
 
 - [Hemingway Editor](http://www.hemingwayapp.com)
 

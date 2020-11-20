@@ -1,5 +1,16 @@
 # Intentional Aboutness
 
+- [Brief](#brief)
+- [Warm-Up](#warm-up)
+- [Methods](#methods)
+- [Handoff](#handoff)
+- [Examples](#examples)
+- [Readings](#readings)
+- [Resources](#resources)
+- [Vocabulary](#vocabulary)
+
+## Brief
+
 > The designer must think first, work later.
 >
 > –[Ladislav Sutnar](https://www.aiga.org/medalist-ladislavsutnar), [Pioneer of Information Design](http://www.eyemagazine.com/feature/article/sutnar), 1897–1976
@@ -8,8 +19,6 @@
 >
 > —[Steve Krug](http://sensible.com)
 
-## Brief
-
 1. Write a concise single sentence about yourself as a designer, in under 120 characters in length (aim for around 100, if possible).
     - For example: Experience designer. I like to rethink things through experimentation, compassion, and a sense of humor. (104 characters)
 2. Write a separate short paragraph about who you are, beyond being a designer with a sense of humor; a personal bio, with an emphasis on keywords and under 300 characters in length.
@@ -17,7 +26,7 @@
 3. Choose a project to develop as a case study for your portfolio and write about the process using the PAR and RAD content methods. Aim for around 300–500 *words* (not characters).
     - See [Case Studies](#case-studies) for examples.
 
-## Warm-up
+## Warm-Up
 
 Consider generating a keyword list to start the process of writing:
 
