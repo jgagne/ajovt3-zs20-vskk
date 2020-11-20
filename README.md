@@ -307,6 +307,8 @@ Helpful course related links.
   - **Optional:** Office Hours on Tuesday, Nov. 17 *and* Friday, Nov. 20 at 13–16:00 via Zoom.
   - Assignment:
     - [Wrap-Up](03-curriculum-vitae.md#wrap-up) task for [Curriculum Vitae](03-curriculum-vitae.md)
+  - Reading:
+    - [Copying (is the way design works)](https://matthewstrom.com/writing/copying/)
 
 ### Week 8
 
