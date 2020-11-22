@@ -12,7 +12,7 @@
   - [Group 2](https://ajovt3-2-zs20-vskk.slack.com)
 - Office Hours: After class; ~ 17:00–18:00 or by appointment (via Slack)
 - Lecturer: Justin Gagne
-- Email: `gagnej@vskk.cz`
+- Email: `gagne.justin@vskk.cz`
 - Work: Boston, MA based; remote via Prague
   - Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com).
   - Adjunct professor, teaching Interactive Design at [Emmanuel College](https://www.emmanuel.edu).
