@@ -20,7 +20,7 @@
 
 Write and design a curriculum vitae, résumé, in Markdown for content first, and as a downloadable PDF for design second.
 
-1. Use Markdown to focus on content first only, while providing a link to a PDF version.
+1. Use Markdown to focus on content first, *unstyled*, and then provide a link to a *styled* PDF version of the same content.
 2. Use a PDF to focus on the look and feel with typography, color, and layout — design second.
 
 **Note:** Use of a headshot photo is *optional*. As an alternative, you could include a headshot in your Markdown file, but *not* include a headshot in your PDF file as a compromise between the identity of your online presence and the etiquette of the hiring process.
