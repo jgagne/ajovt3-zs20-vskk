@@ -313,11 +313,12 @@ Helpful course related links.
 ### Week 8
 
 - Blog post writing
-  - Assignment; to be determined (TBD)
+  - Assignment:
+    - [Voice & Tone](04-voice-tone.md)
 
 ### Week 9
 
-- Social media writing
+- To be determined (TBD)
 
 ### Week 10
 
