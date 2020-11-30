@@ -14,8 +14,6 @@
 >
 > — [Austin Kleon](https://austinkleon.com)
 
-![Copying article webpage with Chapters 6 and 7 roman numerals.](./img/04-voice-tone-chapter-6.png)
-
 Copying the writing style, voice, tone, and format of [Copying (is the way design works)](https://matthewstrom.com/writing/copying/) write a new Chapter 6 (VI), expanding the short book from six to seven chapters, about an influential copying experience in your life.
 
 1. Create a writing style, voice, and tone worksheet for the book, as a content style guide for your chapter.
