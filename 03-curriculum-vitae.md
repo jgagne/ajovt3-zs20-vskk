@@ -59,6 +59,7 @@ Also as a reminder, use of a first name initial followed by last name (surname) 
 Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
 
 ```
+
 ## Wrap-Up
 
 Present your work as a public website. Think of `github.com` as the behind-the-scenes version of your content (folders and files), and `github.io` as the public, home page, version of your content with a table of contents (navigation), links to pages (content), etc.).
