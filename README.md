@@ -318,7 +318,9 @@ Helpful course related links.
 
 ### Week 9
 
-- To be determined (TBD)
+- Blog post writing; Voice & Tone review
+  - Assignment:
+    - [Voice & Tone](04-voice-tone.md)
 
 ### Week 10
 
