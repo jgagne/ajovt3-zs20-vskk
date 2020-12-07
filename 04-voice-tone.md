@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/main.css">
+(setq markdown-css-paths '("/css/main.css"))
 
 # Voice & Tone
 
