@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="css/main.css">
+
 # Voice & Tone
 
 - [Brief](#brief)
@@ -12,13 +14,7 @@
 >
 > — [Austin Kleon](https://austinkleon.com)
 
-<style>
-img[src*="?border"] {
-  border: 1px solid #ccc;
-}
-</style>
-
-![Copying article webpage with Chapters 6 and 7 roman numerals.](./img/04-voice-tone-chapter-6.png?border)
+![Copying article webpage with Chapters 6 and 7 roman numerals.](./img/04-voice-tone-chapter-6.png)
 
 Copying the writing style, voice, tone, and format of [Copying (is the way design works)](https://matthewstrom.com/writing/copying/) write a new Chapter 6 (VI), expanding the short book from six to seven chapters, about an influential copying experience in your life.
 
