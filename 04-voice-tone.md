@@ -126,6 +126,8 @@ Figure 6-2 caption.
 
 ## Vocabulary
 
+- **Attribution**
+  - Attribution to; credit; the action of ascribing (citing) a work or remark to a particular author, artist, or person. Illustration based on original work by Jessica Hische.
 - **Style**
   - TK
 - **Voice**
