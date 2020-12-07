@@ -1,5 +1,3 @@
-`Work-in-Progress`
-
 # Voice & Tone
 
 - [Brief](#brief)
@@ -13,6 +11,10 @@
 > Nobody is born with a style or a voice. We don’t come out of the womb knowing who we are. In the beginning, we learn by pretending to be our heroes. We learn by copying.
 >
 > — [Austin Kleon](https://austinkleon.com)
+
+- - -
+![Copying article webpage with Chapters 6 and 7 roman numerals.](./img/04-voice-tone-chapter-6.png)
+- - -
 
 Copying the writing style, voice, tone, and format of [Copying (is the way design works)](https://matthewstrom.com/writing/copying/) write a new Chapter 6 (VI), expanding the short book from six to seven chapters, about an influential copying experience in your life.
 
