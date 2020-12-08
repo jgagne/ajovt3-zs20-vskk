@@ -29,11 +29,11 @@ You decide the flow. Keep it short, smart, and simple, but tell a story. It coul
 
 ### Format
 
-20–25 minutes via Zoom on December 15 or 22.
+≈ 20 minutes overall via Zoom on December 15 or 22.
 
-- Final presentation
-- Walkthrough of course assignments and optional extra credit
-- Feedback
+- Final presentation (5–10 minutes)
+- Walkthrough of all course assignments and *optional* extra credit (≈ 5 minutes)
+- Feedback (≈ 5 minutes)
 
 **Note:** You must attend both final classes to support your colleagues.
 
@@ -88,7 +88,7 @@ This is not a how-to, but a loose suggestion. *You can do better than this.*
 
 ### English for Designers Home Page
 
-Create a home page for all content from English for Designers including <cite>Presentation Storytelling</cite> and the *optional* <cite>Five Things I Learned This Semester</cite>.
+Create a home page for all content from English for Designers including <cite>Presentation as Storytelling</cite> and the *optional* <cite>Five Things I Learned This Semester</cite>.
 
 - See my work-in-progress [home page](https://jgagne.github.io/english-for-designers/) as a starter, as outlined in Curriculum Vitae [Wrap-Up](03-curriculum-vitae.md#wrap-up).
 
@@ -139,7 +139,7 @@ Create a page listing your top five takeaways, things I learned this semester, u
 Use a combination of both writing linters to revise text.
 
 - [Grammarly](http://www.grammarly.com)
-  - Aim for a score of 90 and above
+  - Aim for a score of 80 and above
 - [Hemingway Editor](http://www.hemingwayapp.com)
   - Aim for a readability of Grade 9 or lower
 
