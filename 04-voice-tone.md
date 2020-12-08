@@ -17,8 +17,8 @@
 Copying the writing style, voice, tone, and format of [Copying (is the way design works)](https://matthewstrom.com/writing/copying/) write a new Chapter 6 (VI), expanding the short book from six to seven chapters, about an influential copying experience in your life.
 
 1. Create a writing style, voice, and tone worksheet for the book, as a content style guide for your chapter.
-    - See Mailchimp’s [Writing Goals and Principles:
-Mailchimp](https://styleguide.mailchimp.com/writing-principles/) and [Voice and Tone: Mailchimp](https://styleguide.mailchimp.com/voice-and-tone/)
+    - See [What is the difference between voice and tone?](https://medium.com/evoking-brand/what-is-the-difference-between-voice-and-tone-5f0fca775520), then Mailchimp’s [Writing Goals and Principles:
+Mailchimp](https://styleguide.mailchimp.com/writing-principles/) and [Voice and Tone: Mailchimp](https://styleguide.mailchimp.com/voice-and-tone/) for structure
 2. Write a new Chapter 6  with examples and related images based on your style, voice, and tone worksheet, while referencing [the original article](https://matthewstrom.com/writing/copying/) for guidance.
 
 ## Handoff
