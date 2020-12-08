@@ -129,6 +129,7 @@ Create a page listing your top five takeaways, things I learned this semester, u
 
 - [Introducing Jaroslav Benda](https://vimeo.com/420176570)
   - `README` [Rediscovering a long-lost master designer](https://www.typemag.org/post/jaroslav-benda)
+- [F*ck You, Pay Me](https://creativemornings.com/talks/mike-monteiro--2/1)
 - [Design and disovery](https://www.ted.com/talks/david_carson_design_and_discovery)
 
 ## Lectures
