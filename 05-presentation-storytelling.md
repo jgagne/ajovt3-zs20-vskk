@@ -16,7 +16,7 @@
 >
 > — [Ellen Lupton](https://ellenlupton.com), designer (writer, curator, and educator)
 
-Everything is a remix. Remix the content from the semester into a short presentation. You may show work from this course, other courses (past or current), an internship, or job-related work, etc.
+Everything is a remix. Remix the content from the semester into a short presentation. You may show work from this course, other courses (past or current), an internship, or maybe the work of others that have inspired you, etc.
 
 If you’re a minimalist designer — show us, tell us. If you’re passionate about details — show us, tell us. And if you’re in love with typography, color, etc. — tell us a story through your design work.
 
