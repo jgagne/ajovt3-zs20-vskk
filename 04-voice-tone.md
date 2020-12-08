@@ -94,6 +94,7 @@ Figure 6-2 caption.
 
 ### Voice, Tone, and Style
 
+- [What is the difference between voice and tone?](https://medium.com/evoking-brand/what-is-the-difference-between-voice-and-tone-5f0fca775520)
 - [Voice, tone and style: The whys, wheres and hows](https://gathercontent.com/blog/voice-tone-style-whys-wheres-hows)
 - [7 Best Examples of Brand Voice & Tone](https://www.ebaqdesign.com/blog/brand-voice)
 - [10 Steps to Finding Your Writing Voice](https://goinswriter.com/writing-voice/)
