@@ -6,6 +6,7 @@
 - [Presentation](#presentation)
 - [Essentials](#essentials)
 - [Extra Credit](#extra-credit)
+- [Examples](#examples)
 - [Lectures](#lectures)
 - [Readings](#readings)
 - [Resources](#resources)
@@ -124,9 +125,16 @@ Create a page listing your top five takeaways, things I learned this semester, u
 5. …
 ```
 
+## Examples
+
+- [Introducing Jaroslav Benda](https://vimeo.com/420176570)
+  - `README` [Rediscovering a long-lost master designer](https://www.typemag.org/post/jaroslav-benda)
+- [Design and disovery](https://www.ted.com/talks/david_carson_design_and_discovery)
+
 ## Lectures
 
 - [Why storytelling matters](https://www.youtube.com/watch?v=YbV3b-l1sZs)
+- [The cues to a great story](https://www.ted.com/talks/andrew_stanton_the_clues_to_a_great_story)
 
 ## Readings
 
