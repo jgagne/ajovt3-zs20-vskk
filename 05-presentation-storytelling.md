@@ -1,0 +1,151 @@
+`Work-in-Progress`
+
+# Presentation as Storytelling
+
+- [Brief](#brief)
+- [Presentation](#presentation)
+- [Essentials](#essentials)
+- [Extra Credit](#extra-credit)
+- [Lectures](#lectures)
+- [Readings](#readings)
+- [Resources](#resources)
+
+## Brief
+
+> Design is storytelling.
+>
+> — [Ellen Lupton](https://ellenlupton.com), designer (writer, curator, and educator)
+
+Everything is a remix. Remix the content from the semester into a short presentation. You may show work from this course, other courses (past or current), an internship, or job-related work, etc.
+
+If you’re a minimalist designer — show us, tell us. If you’re passionate about details — show us, tell us. And if you’re in love with typography, color, etc. — tell us a story through your design work.
+
+## Presentation
+
+You decide the flow. Keep it short, smart, and simple, but tell a story. It could be a case study, or your story as a designer, or what you love about design. You decide the story. You tell the story. You design the story.
+
+- Content first, with text and images in Markdown (and a link to the PDF version).
+- Design second, with the same text and images, as a PDF.
+
+### Format
+
+20–25 minutes via Zoom on December 15 or 22.
+
+- Final presentation
+- Walkthrough of course assignments and optional extra credit
+- Feedback
+
+**Note:** You must attend both final classes to support your colleagues.
+
+### GitHub Config
+- Create a project folder (repo) with a Markdown file and a PDF file, plus an `img` folder with images.
+  - For example:
+    - `05-presentation-stoytelling`
+      - `presentation-2020-jgagne.md`
+      - `presentation-2020-jgagne.pdf`
+      - `img`
+        - `…`
+        - `…`
+        - `…`
+
+### Markdown Files
+
+- `presentation-2020-jgagne.md`
+
+#### Example Outline
+
+This is not a how-to, but a loose suggestion. *You can do better than this.*
+
+```
+- Introduction, About, etc.
+- Title
+  - Blockquote
+  - Artwork
+    - Caption, short description.
+- Title
+  - Short description.
+    - Artwork
+      - Caption, short description.
+    - Artwork
+      - Caption, short description.
+    - Artwork
+      - Caption, short description.
+- Title
+  - Short description.
+    - Artwork
+    - Artwork
+    - Artwork
+      - Caption, short description.
+- Title
+  - Short description.
+    - Artwork
+      - Caption, short description.
+- …
+- Thank You, Contact(s), etc.
+```
+
+## Essentials
+
+### English for Designers Home Page
+
+Create a home page for all content from English for Designers including <cite>Presentation Storytelling</cite> and the *optional* <cite>Five Things I Learned This Semester</cite>.
+
+- See my work-in-progress [home page](https://jgagne.github.io/english-for-designers/) as a starter, as outlined in Curriculum Vitae [Wrap-Up](03-curriculum-vitae.md#wrap-up).
+
+### Lessons (Assignments)
+
+1. [Character & Description](01-character-description.md)
+  - Write a short alternative text description, around 100 characters (120 character at most), about the overall appearance and key detail(s) of the artwork.
+    - See [alt attributes like paragraphs](https://daverupert.com/2020/09/alt-attributes-like-paragraphs/)
+2. [Intentional Aboutness](02-intentional-aboutness.md)
+3. [Curriculum Vitae](03-curriculum-vitae.md)
+4. [Voice & Tone](04-voice-tone.md)
+
+## Extra Credit
+
+### Five Things I Learned This Semester
+
+Create a page listing your top five takeaways, things I learned this semester, using text, links, images, etc.
+
+- `05-semester-takeaways`
+  - `semester-takeways.md`
+
+#### Markdown Files
+
+- `semester-takeways.md`
+
+```
+## Five Things I Learned This Semester
+
+1. …
+2. …
+3. …
+4. …
+5. …
+```
+
+## Lectures
+
+- [Why storytelling matters](https://www.youtube.com/watch?v=YbV3b-l1sZs)
+
+## Readings
+
+- [Presentation Design and the Art of Visual Storytelling](https://www.toptal.com/designers/brand/presentation-design-tips)
+
+## Resources
+
+### Writing Tools (Linters)
+
+Use a combination of both writing linters to revise text.
+
+- [Grammarly](http://www.grammarly.com)
+  - Aim for a score of 90 and above
+- [Hemingway Editor](http://www.hemingwayapp.com)
+  - Aim for a readability of Grade 9 or lower
+
+### Punctuation Guide
+
+Please reference to improve punctuation. At least use the [top ten punctation tips](https://www.thepunctuationguide.com/top-ten.html) in your review process.
+
+- [The Punctuation Guide](https://www.thepunctuationguide.com)
+  - [Top ten punctuation tips](https://www.thepunctuationguide.com/top-ten.html)

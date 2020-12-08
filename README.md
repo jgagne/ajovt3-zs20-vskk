@@ -248,9 +248,9 @@ Helpful course related links.
 - [Week 9](#week-9), December 1
 - [Week 10](#week-10), December 8
 - [Week 11](#week-11), December 15
-  - Final interviews, presentations, and evaluations
+  - Final presentations and course content review
 - [Week 12](#week-12), December 22
-  - Final interviews, presentations, and evaluations
+  - Final presentations and course content review
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
 
@@ -324,12 +324,14 @@ Helpful course related links.
 
 ### Week 10
 
-- Course review and finals preparation
+- Course review and final preparation
+  - Final Assignment:
+    - [Presentation as Storytelling](05-presentation-storytelling.md)
 
 ### Week 11
 
-- Final interviews, presentations, and evaluations
+- Final presentations and course content review
 
 ### Week 12
 
-- Final interviews, presentations, and evaluations
+- Final presentations and course content review
