@@ -4,9 +4,9 @@
 
 - [Brief](#brief)
 - [Presentation](#presentation)
+- [Inspiration](#inspiration)
 - [Essentials](#essentials)
 - [Extra Credit](#extra-credit)
-- [Examples](#examples)
 - [Lectures](#lectures)
 - [Readings](#readings)
 - [Resources](#resources)
@@ -25,10 +25,10 @@ If you’re a minimalist designer — show us, tell us. If you’re passionate a
 
 You decide the flow. Keep it short, smart, and simple, but tell a story. It could be a case study, or your story as a designer, or what you love about design. You decide the story. You tell the story. You design the story.
 
+### Format
+
 - Content first, with text and images in Markdown (and a link to the PDF version).
 - Design second, with the same text and images, as a PDF.
-
-### Format
 
 ≈ 20 minutes overall via Zoom on December 15 or 22.
 
@@ -87,6 +87,13 @@ This is not a how-to, but a loose suggestion. *You can do better than this.*
 - Thank You, Contact(s), etc.
 ```
 
+## Inspiration
+
+- [Introducing Jaroslav Benda](https://vimeo.com/420176570)
+  - `README` [Rediscovering a long-lost master designer](https://www.typemag.org/post/jaroslav-benda)
+- [F*ck You, Pay Me](https://creativemornings.com/talks/mike-monteiro--2/1)
+- [Design and disovery](https://www.ted.com/talks/david_carson_design_and_discovery)
+
 ## Essentials
 
 ### English for Designers Home Page
@@ -126,13 +133,6 @@ Create a page listing your top five takeaways, things I learned this semester, u
 4. …
 5. …
 ```
-
-## Examples
-
-- [Introducing Jaroslav Benda](https://vimeo.com/420176570)
-  - `README` [Rediscovering a long-lost master designer](https://www.typemag.org/post/jaroslav-benda)
-- [F*ck You, Pay Me](https://creativemornings.com/talks/mike-monteiro--2/1)
-- [Design and disovery](https://www.ted.com/talks/david_carson_design_and_discovery)
 
 ## Lectures
 
