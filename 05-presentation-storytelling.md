@@ -51,6 +51,8 @@ You decide the flow. Keep it short, smart, and simple, but tell a story. It coul
 
 ### Markdown Files
 
+Think of your Markdown file as an article or outline to your presentation, it’s the write-up version.
+
 - `presentation-2020-jgagne.md`
 
 #### Example Outline
