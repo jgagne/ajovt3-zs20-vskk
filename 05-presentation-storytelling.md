@@ -1,5 +1,3 @@
-`Work-in-Progress`
-
 # Presentation as Storytelling
 
 - [Brief](#brief)
@@ -110,6 +108,7 @@ Create a home page for all content from English for Designers including <cite>Pr
 2. [Intentional Aboutness](02-intentional-aboutness.md)
 3. [Curriculum Vitae](03-curriculum-vitae.md)
 4. [Voice & Tone](04-voice-tone.md)
+5. [Presentation as Storytelling](05-presentation-storytelling.md)
 
 ## Extra Credit
 
@@ -117,7 +116,7 @@ Create a home page for all content from English for Designers including <cite>Pr
 
 Create a page listing your top five takeaways, things I learned this semester, using text, links, images, etc.
 
-- `05-semester-takeaways`
+- `06-semester-takeaways`
   - `semester-takeways.md`
 
 #### Markdown Files
