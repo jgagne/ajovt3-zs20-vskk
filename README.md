@@ -331,7 +331,15 @@ Helpful course related links.
 ### Week 11
 
 - Final presentations and course content review
+  - Final Assignment:
+    - [Presentation as Storytelling](05-presentation-storytelling.md)
+    - Update GitHub `index.md` [home page](05-presentation-storytelling.md#essentials) to show all assignments, extra credit, etc.
+    - Review and revise assignments using [writing tools](05-presentation-storytelling.md#resources)
 
 ### Week 12
 
 - Final presentations and course content review
+  - Final Assignment:
+    - [Presentation as Storytelling](05-presentation-storytelling.md)
+    - Update GitHub `index.md` [home page](05-presentation-storytelling.md#essentials) to show all assignments, extra credit, etc.
+    - Review and revise assignments using [writing tools](05-presentation-storytelling.md#resources)
