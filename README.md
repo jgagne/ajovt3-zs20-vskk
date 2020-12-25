@@ -251,9 +251,11 @@ Helpful course related links.
   - Final presentations and course content review
 - [Week 12](#week-12), December 22
   - Final presentations and course content review
-- [Week 13](#week-13), January 5
+- [Week 13](#week-13), December 29
+  - **No class**; no office hours
+- [Week 14](#week-14), January 5
   - *Optional* office hours; update assignments for final grading
-- [Week 14](#week-14), January 12
+- [Week 15](#week-15), January 12
   - *Optional* office hours; update assignments for final grading
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
@@ -349,7 +351,10 @@ Helpful course related links.
     - Review and revise assignments using [writing tools](05-presentation-storytelling.md#resources)
 
 ### Week 13
-  - *Optional* office hours; update assignments for final grading
+  - **No class**; no office hours
 
 ### Week 14
+  - *Optional* office hours; update assignments for final grading
+
+### Week 15
   - *Optional* office hours; update assignments for final grading
