@@ -10,7 +10,7 @@
 - [Dominika Hynková](https://dominikahynkova.github.io/english-for-designers/)
 - [Anežka Janečková](https://github.com/AnezkaJaneckova/english-for-designers/blob/main/index.md)
   - `status` Pending GitHub Pages URL: `https://AnezkaJaneckova.github.io/english-for-designers/`
-- Adéla Jelenová
+- [Adéla Jelenová](https://adelajelenova.github.io/english-for-designer/)
 - [Jana Kaufmanová](https://janakaufmanova.github.io/english-for-designers/)
 - Zdeněk Horáček
 - [Hynek Král](https://hynekral.github.io/english-for-designers/)
