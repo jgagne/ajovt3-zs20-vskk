@@ -5,6 +5,7 @@
 
 - Michaela Adamcová
 - [Tetiana Denysova](https://tetianadies.github.io/ajovt3/)
+- Zdeněk Horáček
 - [Lukas Hunter](https://luke-b-hunter.github.io/ajovt3/)
 - Katerina Hruba
 - [Dominika Hynková](https://dominikahynkova.github.io/english-for-designers/)
@@ -12,7 +13,6 @@
   - `status` Pending GitHub Pages URL: `https://AnezkaJaneckova.github.io/english-for-designers/`
 - [Adéla Jelenová](https://adelajelenova.github.io/english-for-designer/)
 - [Jana Kaufmanová](https://janakaufmanova.github.io/english-for-designers/)
-- Zdeněk Horáček
 - [Hynek Král](https://hynekral.github.io/english-for-designers/)
 - [Eliška Šafářová](https://elizsafar.github.io/english-for-designers/)
 - [Tereza Smitková](https://terezsmitkova.github.io/english-for-designers/)
