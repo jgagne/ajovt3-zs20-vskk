@@ -22,8 +22,6 @@
 
 ### PM
 
-- - -
-
 - [Jakub Dudáček](https://dudacek.github.io/english_for_designers/)
   - `comment` Underscores… ¯\_(ツ)_/¯
 - [Miroslav Kasarda](https://github.com/Kasiczek/english-for-designers/)
