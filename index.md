@@ -18,6 +18,7 @@
 - [Tereza Smitková](https://terezsmitkova.github.io/english-for-designers/)
 - Martin Šula
 - [Lida Weisser](https://github.com/LidaAlice/english-for-designers)
+  - `status` Pending GitHub Pages URL: `https://LidaAlice.github.io/english-for-designers/`
 - [Petra Železná](https://petrazelezna.github.io/english-for-designers/)
 
 ### PM
