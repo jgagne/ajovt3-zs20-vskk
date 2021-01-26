@@ -25,7 +25,7 @@
 - [Tools](#tools)
 - [Resources](#resources)
 - [Schedule](#schedule)
-- [Student Work](#student-work)
+- [Student Coursework](#student-coursework)
 
 ## Description
 
@@ -360,6 +360,6 @@ Helpful course related links.
 ### Week 15
   - *Optional* office hours; update assignments for final grading
 
-## Student Work
+## Student Coursework
 
 - [English for Designers](https://jgagne.github.io/ajovt3-zs20-vskk)
