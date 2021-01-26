@@ -26,14 +26,14 @@
 
 - [Jakub Dudáček](https://dudacek.github.io/english_for_designers/)
   - `comment` Underscores… ¯\_(ツ)_/¯
-- [Miroslav Kasarda]https://github.com/Kasiczek/english-for-designers/)
+- [Miroslav Kasarda](https://github.com/Kasiczek/english-for-designers/)
   - `status` Pending GitHub Pages URL: `https://Kasiczek.github.io/english-for-designers/`
 - Patrik Fadrhonc
 - Michal Hornof
 - [Matěj Leher](https://matejleher.github.io/english-for-designers/)
 - Eddie Kelnar
 - Tereza Kodlová
-- [Julie Smutna ](https://juliensmut.github.io/english-for-designers/)
+- [Julie Smutna](https://juliensmut.github.io/english-for-designers/)
 - Tereza Vanickova
 - [Miriam Vojčeková](https://miriam-vojcekova.github.io/english-for-designers/)
 - [David Vošický](https://iamvosicky.github.io/english-for-designers/)
