@@ -23,7 +23,7 @@
 ### PM
 
 - [Jakub Dudáček](https://dudacek.github.io/english_for_designers/)
-  - `comment` Underscores… ¯\_(ツ)_/¯
+  - `comment` Underscores… `¯\_(ツ)_/¯`
 - [Miroslav Kasarda](https://github.com/Kasiczek/english-for-designers/)
   - `status` Pending GitHub Pages URL: `https://Kasiczek.github.io/english-for-designers/`
 - Patrik Fadrhonc
