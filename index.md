@@ -6,8 +6,8 @@
 - Michaela Adamcová
 - [Tetiana Denysova](https://tetianadies.github.io/ajovt3/)
 - Zdeněk Horáček
-- [Lukas Hunter](https://luke-b-hunter.github.io/ajovt3/)
 - Katerina Hruba
+- [Lukas Hunter](https://luke-b-hunter.github.io/ajovt3/)
 - [Dominika Hynková](https://dominikahynkova.github.io/english-for-designers/)
 - [Anežka Janečková](https://github.com/AnezkaJaneckova/english-for-designers/blob/main/index.md)
   - `status` Pending GitHub Pages URL: `https://AnezkaJaneckova.github.io/english-for-designers/`
@@ -25,13 +25,13 @@
 
 - [Jakub Dudáček](https://dudacek.github.io/english_for_designers/)
   - `comment` Underscores… `¯\_(ツ)_/¯`
-- [Miroslav Kasarda](https://github.com/Kasiczek/english-for-designers/)
-  - `status` Pending GitHub Pages URL: `https://Kasiczek.github.io/english-for-designers/`
 - [Patrik Fadrhonc](https://patrik-gethub.github.io/english-for-designers-patrik/)
 - Michal Hornof
-- [Matěj Leher](https://matejleher.github.io/english-for-designers/)
+- [Miroslav Kasarda](https://github.com/Kasiczek/english-for-designers/)
+  - `status` Pending GitHub Pages URL: `https://Kasiczek.github.io/english-for-designers/`
 - Eddie Kelnar
 - Tereza Kodlová
+- [Matěj Leher](https://matejleher.github.io/english-for-designers/)
 - [Julie Smutna](https://juliensmut.github.io/english-for-designers/)
 - Tereza Vanickova
 - [Miriam Vojčeková](https://miriam-vojcekova.github.io/english-for-designers/)
