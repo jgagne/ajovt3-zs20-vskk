@@ -4,13 +4,13 @@
 ## (English for Designers)
 
 - Winter 2020
-- Tuesday, 9:45–16:30; <s>Room 104</s> online via Zoom
+- Tuesday, 9:45–16:30; <s>Room 104</s> online via Zoom and Slack
   - Group 1: 9:45–11:15, 11:30–13:00
   - Group 2: 13:15–14:45, 15:00–16:30
 - Class Workspace: [Slack](https://slack.com) — Where Work Happens™
   - [Group 1](https://ajovt3-1-zs20-vskk.slack.com)
   - [Group 2](https://ajovt3-2-zs20-vskk.slack.com)
-- Office Hours: After class; ~ 17:00–18:00 or by appointment (via Slack)
+- Office Hours: Friday, ≈ 13:00–16:00 or by appointment
 - Lecturer: Justin Gagne
 - Email: `gagne.justin@vskk.cz`
 - Work: Boston, MA based; remote via Prague
