@@ -30,7 +30,7 @@
 - [Miroslav Kasarda](https://github.com/Kasiczek/english-for-designers/)
   - `status` Pending GitHub Pages URL: `https://Kasiczek.github.io/english-for-designers/`
 - Eddie Kelnar
-- Tereza Kodlová
+- [Tereza Kodlová](https://kodlovke.github.io/english-for-designers/)
 - [Matěj Leher](https://matejleher.github.io/english-for-designers/)
 - [Julie Smutna](https://juliensmut.github.io/english-for-designers/)
 - Tereza Vanickova
