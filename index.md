@@ -27,8 +27,7 @@
   - `comment` Underscores… `¯\_(ツ)_/¯`
 - [Patrik Fadrhonc](https://patrik-gethub.github.io/english-for-designers-patrik/)
 - Michal Hornof
-- [Miroslav Kasarda](https://github.com/Kasiczek/english-for-designers/)
-  - `status` Pending GitHub Pages URL: `https://Kasiczek.github.io/english-for-designers/`
+- [Miroslav Kasarda](https://kasiczek.github.io/english-for-designers/)
 - Eddie Kelnar
 - [Tereza Kodlová](https://kodlovke.github.io/english-for-designers/)
 - [Matěj Leher](https://matejleher.github.io/english-for-designers/)
