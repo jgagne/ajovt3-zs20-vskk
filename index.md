@@ -3,7 +3,7 @@
 
 ### AM
 
-- Michaela Adamcová
+- [Michaela Adamcová](https://adamcovamichaela.github.io/english-for-designers/)
 - [Tetiana Denysova](https://tetianadies.github.io/ajovt3/)
 - Zdeněk Horáček
 - [Katerina Hruba](https://hruba.github.io/english-for-designers/)
