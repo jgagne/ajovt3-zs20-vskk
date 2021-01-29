@@ -16,7 +16,7 @@
 - [Hynek Král](https://hynekral.github.io/english-for-designers/)
 - [Eliška Šafářová](https://elizsafar.github.io/english-for-designers/)
 - [Tereza Smitková](https://terezsmitkova.github.io/english-for-designers/)
-- Martin Šula
+- [Martin Šula](https://martinsula.github.io/english-for-designers/)
 - [Lida Weisser](https://github.com/LidaAlice/english-for-designers)
   - `status` Pending GitHub Pages URL: `https://LidaAlice.github.io/english-for-designers/`
 - [Petra Železná](https://petrazelezna.github.io/english-for-designers/)
