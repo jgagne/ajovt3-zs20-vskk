@@ -32,7 +32,7 @@
 - [Tereza Kodlová](https://kodlovke.github.io/english-for-designers/)
 - [Matěj Leher](https://matejleher.github.io/english-for-designers/)
 - [Julie Smutna](https://juliensmut.github.io/english-for-designers/)
-- Tereza Vanickova
+- [Tereza Vanickova](https://terezavanickova08.github.io/english-for-designers/)
 - [Miriam Vojčeková](https://miriam-vojcekova.github.io/english-for-designers/)
 - [David Vošický](https://iamvosicky.github.io/english-for-designers/)
 
