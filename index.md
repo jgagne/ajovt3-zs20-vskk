@@ -26,9 +26,10 @@
 - [Jakub Dudáček](https://dudacek.github.io/english_for_designers/)
   - `comment` Underscores… `¯\_(ツ)_/¯`
 - [Patrik Fadrhonc](https://patrik-gethub.github.io/english-for-designers-patrik/)
-- Michal Hornof
+- [Michal Hornof](https://michalhornof.github.io/english-for-designers/)
 - [Miroslav Kasarda](https://kasiczek.github.io/english-for-designers/)
-- Eddie Kelnar
+- [Eddie Kelnar](https://github.com/edwardkelnar/English-for-designers)
+  - `status` Pending repo rename and GitHub Pages URL: `https://edwardkelnar.github.io/english-for-designers/`
 - [Tereza Kodlová](https://kodlovke.github.io/english-for-designers/)
 - [Matěj Leher](https://matejleher.github.io/english-for-designers/)
 - [Julie Smutna](https://juliensmut.github.io/english-for-designers/)
