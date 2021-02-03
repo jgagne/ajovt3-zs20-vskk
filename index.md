@@ -5,7 +5,7 @@
 
 - [Michaela Adamcová](https://adamcovamichaela.github.io/english-for-designers/)
 - [Tetiana Denysova](https://tetianadies.github.io/ajovt3/)
-- [Zdeněk Horáček](https://zdenekhoracek25.github.io/english-for-designers/)
+- [Zdeněk Horáček](https://zdenekhoracek.github.io/english-for-designers/)
 - [Katerina Hruba](https://hruba.github.io/english-for-designers/)
 - [Lukas Hunter](https://luke-b-hunter.github.io/ajovt3/)
 - [Dominika Hynková](https://dominikahynkova.github.io/english-for-designers/)
