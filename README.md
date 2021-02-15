@@ -8,11 +8,11 @@
   - Group 1: 9:45–11:15, 11:30–13:00
   - Group 2: 13:15–14:45, 15:00–16:30
 - Class Workspace: [Slack](https://slack.com) — Where Work Happens™
-  - [Group 1](https://ajovt3-1-zs20-vskk.slack.com)
-  - [Group 2](https://ajovt3-2-zs20-vskk.slack.com)
+  - [Group 1](https://ajovt-1-20-21-vskk.slack.com)
+  - [Group 2](https://ajovt-2-20-21-vskk.slack.com)
 - Office Hours: Friday, ≈ 13:00–16:00 or by appointment
 - Lecturer: Justin Gagne
-- Email: `gagne.justin@vskk.cz`
+- Email: `gagnej@vskk.cz`
 - Work: Boston, MA based; remote via Prague
   - Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com).
   - Adjunct professor, teaching Interactive Design at [Emmanuel College](https://www.emmanuel.edu).
