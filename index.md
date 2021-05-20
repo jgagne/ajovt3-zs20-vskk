@@ -24,7 +24,6 @@
 ### PM
 
 - [Jakub Dudáček](https://dudacek.github.io/english_for_designers/)
-  - `comment` Underscores… `¯\_(ツ)_/¯`
 - [Patrik Fadrhonc](https://patrik-gethub.github.io/english-for-designers-patrik/)
 - [Michal Hornof](https://michalhornof.github.io/english-for-designers/)
 - [Miroslav Kasarda](https://kasiczek.github.io/english-for-designers/)
@@ -39,4 +38,7 @@
 
 - - -
 
-[Home](https://github.com/jgagne/ajovt3-zs20-vskk)
+### Home
+
+- [Winter 2020](https://github.com/jgagne/ajovt3-zs20-vskk)
+- [Summer 2021](https://github.com/jgagne/ajovt3-ls21-vskk)
