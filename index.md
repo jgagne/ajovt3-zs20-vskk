@@ -41,4 +41,4 @@
 ### Home
 
 - [Winter 2020](https://github.com/jgagne/ajovt3-zs20-vskk)
-- [Summer 2021](https://github.com/jgagne/ajovt3-ls21-vskk)
+- [Summer 2021](https://github.com/jgagne/ajovt4-ls21-vskk)
