@@ -3,7 +3,7 @@
 # Applied English for Graphic and Media Designers
 ## (English for Designers)
 
-- Winter 2020
+- **Winter 2020**
 - Tuesday, 9:45–16:30; <s>Room 104</s> online via Zoom and Slack
   - Group 1: 9:45–11:15, 11:30–13:00
   - Group 2: 13:15–14:45, 15:00–16:30
